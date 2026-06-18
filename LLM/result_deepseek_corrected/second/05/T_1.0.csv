@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+second,5,5,1.0,I will be there in one second.,A
+second,5,5,1.0,I'll take a second to think about it.,A
+second,5,5,1.0,I won second place in the race.,B
+second,5,5,1.0,I need a second to think.,A
+second,5,5,1.0,He came in second place.,B
+second,5,5,1.0,I finished the race in second place.,B
+second,5,5,1.0,I need a second to think.,A
+second,5,5,1.0,I need a second to think.,A
+second,5,5,1.0,I will be there in a second.,A
+second,5,5,1.0,Let me wait a second.,A
+second,5,5,1.0,Please wait a second.,A
+second,5,5,1.0,I will take a second to think.,A
+second,5,5,1.0,Please wait a second.,A
+second,5,5,1.0,That is my second cup of coffee.,B
+second,5,5,1.0,She won a second gold medal.,B
+second,5,5,1.0,I need a second to think.,A
+second,5,5,1.0,I will meet you in one second.,A
+second,5,5,1.0,I need a second to think.,A
+second,5,5,1.0,I need a second to think.,A
+second,5,5,1.0,I'll have a second helping of dessert.,B
+second,5,5,1.0,I’ll be ready in one second.,A
+second,5,5,1.0,I ate a second cookie.,B
+second,5,5,1.0,I need a second to think.,A
+second,5,5,1.0,I have a second watch.,B
+second,5,5,1.0,I forgot my key for the second time this week.,B
+second,5,5,1.0,I need a second to think.,A
+second,5,5,1.0,I need a second to think.,A
+second,5,5,1.0,I will be there in one second.,A
+second,5,5,1.0,He finished second in the race.,B
+second,5,5,1.0,Please give me a second to think.,A
+second,5,5,1.0,She won the race by a second.,A
+second,5,5,1.0,I will wait one second.,A
+second,5,5,1.0,I’ll be ready in one second.,A
+second,5,5,1.0,I need a second to think.,A
+second,5,5,1.0,I need a second to think.,A
+second,5,5,1.0,The second house on the left is blue.,B
+second,5,5,1.0,I need a second to think.,A
+second,5,5,1.0,I took a second look.,B
+second,5,5,1.0,He came in second place.,B
+second,5,5,1.0,Please wait a second.,A
+second,5,5,1.0,She finished second in the race.,B
+second,5,5,1.0,**I will be there in one second.**,A
+second,5,5,1.0,She came in second place.,B
+second,5,5,1.0,I came second in the race.,B
+second,5,5,1.0,I need a second to think.,A
+second,5,5,1.0,I finished second in the race.,B
+second,5,5,1.0,I'll have a second cup of coffee.,B
+second,5,5,1.0,I will take a second to think.,A
+second,5,5,1.0,I ate a second cookie.,B
+second,5,5,1.0,I'll have a second cup of coffee.,B

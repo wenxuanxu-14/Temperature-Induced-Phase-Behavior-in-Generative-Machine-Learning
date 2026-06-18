@@ -1,0 +1,51 @@
+﻿word,run,temp,sentence,label
+right,3,1.7,You turned right at the corner.,B
+right,3,1.7,You have the right answer.,A
+right,3,1.7,You turn right at the corner.,B
+right,3,1.7,You turned the right way.,B
+right,3,1.7,You turned right at the stop sign.,B
+right,3,1.7,You made the right choice.,A
+right,3,1.7,You have the right answer.,A
+right,3,1.7,She turned right at the corner.,B
+right,3,1.7,You are standing in the right place.,B
+right,3,1.7,You have the right to remain silent.,C
+right,3,1.7,You have the right answer.,A
+right,3,1.7,You turned right at the corner.,B
+right,3,1.7,You have the right answer.,A
+right,3,1.7,You turned right at the corner.,B
+right,3,1.7,You turned right at the corner.,B
+right,3,1.7,You have the right answer.,A
+right,3,1.7,You turned right at the corner.,B
+right,3,1.7,She turned right at the corner.,B
+right,3,1.7,You are right about the answer.,A
+right,3,1.7,You turned right at the corner.,B
+right,3,1.7,You turned right at the corner.,B
+right,3,1.7,You took the right turn.,D
+right,3,1.7,You turned right at the corner.,B
+right,3,1.7,You turned right at the corner.,B
+right,3,1.7,You picked the right answer.,A
+right,3,1.7,You turned right at the corner.,B
+right,3,1.7,She turned right at the corner.,B
+right,3,1.7,She turned right at the corner.,B
+right,3,1.7,You should turn right at the corner.,B
+right,3,1.7,You turned right at the corner.,B
+right,3,1.7,You got the answer right.,A
+right,3,1.7,You wrote your name on the right side.,B
+right,3,1.7,She took a right turn.,B
+right,3,1.7,You are standing on the right side.,B
+right,3,1.7,You are standing on the right side.,B
+right,3,1.7,You turned right at the corner.,B
+right,3,1.7,You have the right answer.,A
+right,3,1.7,You made the right choice.,A
+right,3,1.7,You were right about the weather.,A
+right,3,1.7,You turned right at the corner.,B
+right,3,1.7,You turned right at the corner.,B
+right,3,1.7,You were right about the weather.,A
+right,3,1.7,You were right about the answer.,A
+right,3,1.7,You have the right answer.,A
+right,3,1.7,You have the right answer.,A
+right,3,1.7,You have the right answer.,A
+right,3,1.7,You turned right at the corner.,B
+right,3,1.7,You made the right choice.,A
+right,3,1.7,You turned right at the corner.,B
+right,3,1.7,You have the right to choose.,C

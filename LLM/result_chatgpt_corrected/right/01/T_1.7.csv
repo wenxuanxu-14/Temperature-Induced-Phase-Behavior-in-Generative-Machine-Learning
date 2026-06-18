@@ -1,0 +1,51 @@
+﻿word,run,temp,sentence,label
+right,1,1.7,You were right about the weather.,A
+right,1,1.7,You turned right at the corner.,B
+right,1,1.7,You turned right at the corner.,B
+right,1,1.7,You are walking on the right path.,B
+right,1,1.7,You are standing in the right place.,A
+right,1,1.7,You turned right at the corner.,B
+right,1,1.7,You turned left instead of right.,B
+right,1,1.7,You should turn right at the next corner.,B
+right,1,1.7,You have the right answer.,A
+right,1,1.7,You have the right answer.,A
+right,1,1.7,You turned right at the corner.,B
+right,1,1.7,You turned the corner to the right.,B
+right,1,1.7,You took the right turn.,D
+right,1,1.7,You told me the right answer.,A
+right,1,1.7,You turned right at the corner.,B
+right,1,1.7,She always knows what is right.,A
+right,1,1.7,You turned right at the corner.,B
+right,1,1.7,You turned the corner to the right.,B
+right,1,1.7,You are right.,A
+right,1,1.7,You took the right turn.,B
+right,1,1.7,She gave the book to the boy on the right.,B
+right,1,1.7,You are right.,A
+right,1,1.7,Turn right at the next street.,D
+right,1,1.7,You have the right answer.,A
+right,1,1.7,You walked the right way.,A
+right,1,1.7,You are standing on the right side.,B
+right,1,1.7,You should turn right at the corner.,B
+right,1,1.7,You turned right at the corner.,B
+right,1,1.7,You have the right answer.,A
+right,1,1.7,You turned right at the corner.,B
+right,1,1.7,You have the right answer.,A
+right,1,1.7,You turned right at the corner.,B
+right,1,1.7,You turned right at the corner.,B
+right,1,1.7,You took a right turn.,B
+right,1,1.7,You turned right at the corner.,B
+right,1,1.7,You have the right book.,A
+right,1,1.7,You turned right at the corner.,B
+right,1,1.7,You should turn right at the corner.,B
+right,1,1.7,You have the right answer.,A
+right,1,1.7,She made the right choice.,A
+right,1,1.7,You turned right at the corner.,B
+right,1,1.7,You turned right at the street.,D
+right,1,1.7,You turn right at the corner.,B
+right,1,1.7,You turned the car to the right.,D
+right,1,1.7,You took a right turn at the stop sign.,B
+right,1,1.7,You turned right at the corner.,B
+right,1,1.7,You turned right at the corner.,B
+right,1,1.7,You turned right at the corner.,B
+right,1,1.7,You turned the corner to the right.,B
+right,1,1.7,You turned right at the corner.,B

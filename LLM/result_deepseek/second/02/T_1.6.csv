@@ -1,0 +1,51 @@
+﻿word,run,temp,sentence,label
+second,2,1.6,She chose the second one.,B
+second,2,1.6,He won second place.,B
+second,2,1.6,Changing lanes requires a second check.,B
+second,2,1.6,He is my second choice.,B
+second,2,1.6,I opened my second chocolate bar.,B
+second,2,1.6,I gave him a second chance.,B
+second,2,1.6,I need a second to answer.,A
+second,2,1.6,I need a second to think.,A
+second,2,1.6,I need a second to finish this thought.,A
+second,2,1.6,Please wait a second.,A
+second,2,1.6,Today is the second day of the week.,D
+second,2,1.6,She came in second place.,B
+second,2,1.6,The second book was better than the first.,B
+second,2,1.6,I'll take a second slice of cake.,B
+second,2,1.6,He came in second place.,B
+second,2,1.6,Hand me the second book from the shelf.,B
+second,2,1.6,I have a second watch.,B
+second,2,1.6,I closed the door with a quiet second click.,B
+second,2,1.6,Order a second helping if you're still hungry.,B
+second,2,1.6,That was my second lucky coin.,B
+second,2,1.6,She won second place in the race.,B
+second,2,1.6,I ate a second slice of cake.,B
+second,2,1.6,I waited a second before answering.,A
+second,2,1.6,Please wait a second.,A
+second,2,1.6,She finished the race in second place.,B
+second,2,1.6,"I will wait for one more minute, and then I must leave in a second.",D
+second,2,1.6,Let me have a second to think.,A
+second,2,1.6,I missed the second train.,B
+second,2,1.6,The second door on the left leads to the garden.,B
+second,2,1.6,I will take a second step.,D
+second,2,1.6,"**Use your headphones**, {wait for the user input, processed}",D
+second,2,1.6,Give me a second.,A
+second,2,1.6,"The race resulted in a win, not a second-place finish.",B
+second,2,1.6,Take a second to breathe.,A
+second,2,1.6,I need a second to finish this cookie.,A
+second,2,1.6,I just need a second.,A
+second,2,1.6,**Response:**,D
+second,2,1.6,He came second in the race.,B
+second,2,1.6,I stayed in line for one second to see.,D
+second,2,1.6,I’ll have a second cup of coffee.,B
+second,2,1.6,Add a second spoonful of sugar.,B
+second,2,1.6,I will come in one second.,A
+second,2,1.6,I forgot my keys at the train station for the second time this week.,B
+second,2,1.6,I **second** that motion.,B
+second,2,1.6,He is my second choice.,B
+second,2,1.6,Here is your sentence: I will be there in one second.,A
+second,2,1.6,I had to wait a second.,A
+second,2,1.6,I only missed the bus by a second.,A
+second,2,1.6,She arrived a second after the bell rang.,B
+second,2,1.6,She finished her practice in second place.,B

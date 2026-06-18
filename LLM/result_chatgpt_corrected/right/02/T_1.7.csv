@@ -1,0 +1,51 @@
+﻿word,run,temp,sentence,label
+right,2,1.7,You were right about the weather.,A
+right,2,1.7,You have the right answer.,A
+right,2,1.7,You are right about the answer.,A
+right,2,1.7,You turned right at the corner.,B
+right,2,1.7,You turned the wrong way; go right instead.,B
+right,2,1.7,She turned right at the corner.,B
+right,2,1.7,You have the right answer.,A
+right,2,1.7,You turned right at the corner.,B
+right,2,1.7,You turned right at the corner.,B
+right,2,1.7,She turned right at the corner.,B
+right,2,1.7,You have the right answer.,A
+right,2,1.7,You turned right at the corner.,B
+right,2,1.7,You did the right thing.,A
+right,2,1.7,You should turn right at the next street.,D
+right,2,1.7,You turned right at the corner.,B
+right,2,1.7,Turn right at the corner.,B
+right,2,1.7,You turned right at the corner.,B
+right,2,1.7,You turned right at the corner.,B
+right,2,1.7,You have the right answer.,A
+right,2,1.7,You turned right at the corner.,B
+right,2,1.7,You have the right to speak.,C
+right,2,1.7,You have the right answer.,A
+right,2,1.7,You turned right at the corner.,B
+right,2,1.7,You chose the right answer.,A
+right,2,1.7,You turned right at the corner.,B
+right,2,1.7,You made the right choice.,A
+right,2,1.7,You have the right to choose.,C
+right,2,1.7,You turned right at the corner.,B
+right,2,1.7,She took the right book from the shelf.,A
+right,2,1.7,You turned right at the corner.,B
+right,2,1.7,You took the right path.,B
+right,2,1.7,You turned right at the corner.,B
+right,2,1.7,You are sitting in the right chair.,B
+right,2,1.7,You turned right at the corner.,B
+right,2,1.7,She turned right at the corner.,B
+right,2,1.7,Turn right at the next corner.,B
+right,2,1.7,She turned right at the corner.,B
+right,2,1.7,You are right.,A
+right,2,1.7,You have the right answer.,A
+right,2,1.7,She turned right at the next street.,D
+right,2,1.7,She turned right at the corner.,B
+right,2,1.7,You turned right at the corner.,B
+right,2,1.7,You turned the corner to the right.,B
+right,2,1.7,You are sitting in the right chair.,B
+right,2,1.7,You turned left instead of right.,B
+right,2,1.7,You turned right at the corner.,B
+right,2,1.7,You gave me the right answer.,A
+right,2,1.7,You turned right at the corner.,B
+right,2,1.7,You turned right at the corner.,B
+right,2,1.7,You turned right at the corner.,B

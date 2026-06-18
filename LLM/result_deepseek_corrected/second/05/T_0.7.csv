@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+second,5,5,0.7,She won the race by a single second.,A
+second,5,5,0.7,I need a second to think.,A
+second,5,5,0.7,I have a second chance.,B
+second,5,5,0.7,I need a second to think.,A
+second,5,5,0.7,I need a second to think.,A
+second,5,5,0.7,She won the race by a single second.,A
+second,5,5,0.7,I'll take a second look at the problem.,B
+second,5,5,0.7,I need a second to think.,A
+second,5,5,0.7,I will be there in one second.,A
+second,5,5,0.7,I finished my homework in second place.,D
+second,5,5,0.7,I need a second to think.,A
+second,5,5,0.7,I need a second to think.,A
+second,5,5,0.7,I need a second to think.,A
+second,5,5,0.7,He came in second place.,B
+second,5,5,0.7,I will take a second to think.,A
+second,5,5,0.7,I will arrive in one second.,A
+second,5,5,0.7,I'll take a second look.,B
+second,5,5,0.7,I need a second to think.,A
+second,5,5,0.7,I will be there in one second.,A
+second,5,5,0.7,I ate a second cookie.,B
+second,5,5,0.7,I need a second to think.,A
+second,5,5,0.7,I have a second chance.,B
+second,5,5,0.7,I'll have a second slice of cake.,B
+second,5,5,0.7,I need a second to think.,A
+second,5,5,0.7,I will be there in one second.,A
+second,5,5,0.7,I'll have a second slice of cake.,B
+second,5,5,0.7,I need a second to think.,A
+second,5,5,0.7,I have a second chance.,B
+second,5,5,0.7,I will be there in one second.,A
+second,5,5,0.7,She won the race by a second.,A
+second,5,5,0.7,I will be there in one second.,A
+second,5,5,0.7,She won the race by just one second.,A
+second,5,5,0.7,I will be there in one second.,A
+second,5,5,0.7,I will take a second to think.,A
+second,5,5,0.7,I will be there in one second.,A
+second,5,5,0.7,I will be there in one second.,A
+second,5,5,0.7,I'll have a second helping of dessert.,B
+second,5,5,0.7,I need a second to think.,A
+second,5,5,0.7,I will be there in one second.,A
+second,5,5,0.7,I need a second to think.,A
+second,5,5,0.7,I will be there in one second.,A
+second,5,5,0.7,I'll have a second helping of cake.,B
+second,5,5,0.7,I will take a second to think.,A
+second,5,5,0.7,I'll have a second cup of coffee.,B
+second,5,5,0.7,I will be there in one second.,A
+second,5,5,0.7,I will be there in one second.,A
+second,5,5,0.7,I need a second to think.,A
+second,5,5,0.7,I need a second to think.,A
+second,5,5,0.7,I will take a second to think.,A
+second,5,5,0.7,I need a second to think.,A

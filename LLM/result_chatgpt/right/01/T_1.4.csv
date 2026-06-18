@@ -1,0 +1,51 @@
+﻿word,run,temp,sentence,label
+right,1,1.4,You should turn right at the next street.,D
+right,1,1.4,She turned right at the corner.,B
+right,1,1.4,You turned right at the light.,B
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You have the right answer.,A
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You have the right answer.,A
+right,1,1.4,You turned left instead of right.,B
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You have the right answer.,A
+right,1,1.4,You have the right answer.,A
+right,1,1.4,You have the right answer.,A
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You have the right idea.,A
+right,1,1.4,You are right.,A
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You have the right answer.,A
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,I will turn right at the next street.,D
+right,1,1.4,You have the right answer.,A
+right,1,1.4,You turned the corner to the right.,B
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You are standing on the right side.,B
+right,1,1.4,You have the right answer.,A
+right,1,1.4,You turned the corner to the right.,B
+right,1,1.4,You have the right answer.,A
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You have the right answer.,A
+right,1,1.4,You are right about the answer.,A
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,She turned right at the corner.,B
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You are standing on the right side.,B
+right,1,1.4,You turned the corner to the right.,B
+right,1,1.4,She turned right at the corner.,B
+right,1,1.4,You turned right at the corner.,B
+right,1,1.4,You got the answer right.,A

@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+second,4,4,1.4,I need a second to think.,A
+second,4,4,1.4,She came in second place.,B
+second,4,4,1.4,I eat a second cookie.,B
+second,4,4,1.4,Let's take a second look at the instructions.,B
+second,4,4,1.4,I'll have a second helping of dessert.,B
+second,4,4,1.4,I will be there in one second.,A
+second,4,4,1.4,She finished a close second in the race.,B
+second,4,4,1.4,She arrived a second late.,A
+second,4,4,1.4,Please wait a second.,A
+second,4,4,1.4,"She won the race by a hair, coming in just a single second ahead.",B
+second,4,4,1.4,The second dish was the best.,B
+second,4,4,1.4,Let me take a second to think.,A
+second,4,4,1.4,She won the race by a full second.,B
+second,4,4,1.4,The second runner won the race.,B
+second,4,4,1.4,"After my shower, I was the second one ready.",B
+second,4,4,1.4,Catch the runaway next time; this is your second warning.,B
+second,4,4,1.4,I need a second to think.,A
+second,4,4,1.4,I will be ready in one second.,A
+second,4,4,1.4,I'll have a second helping of dessert.,B
+second,4,4,1.4,I’ll be there in one second.,A
+second,4,4,1.4,"I ate just one cupcake, then I didn't take a second.",D
+second,4,4,1.4,I won second place in the race.,B
+second,4,4,1.4,I'll take a second slice of cake.,B
+second,4,4,1.4,The cake was so good that she asked for a second slice.,B
+second,4,4,1.4,"I waited a second, then knocked again.",A
+second,4,4,1.4,Please wait a second.,A
+second,4,4,1.4,I need a second to think.,A
+second,4,4,1.4,I also baked a second cake.,B
+second,4,4,1.4,I'll have a second chance.,B
+second,4,4,1.4,I have a second meeting today.,B
+second,4,4,1.4,I ate a second cookie.,B
+second,4,4,1.4,The runner finished a full second ahead.,A
+second,4,4,1.4,I will be there in one second.,A
+second,4,4,1.4,The **second** book on the shelf is blue.,B
+second,4,4,1.4,Please give me a second.,A
+second,4,4,1.4,The second chapter is very short.,B
+second,4,4,1.4,Please give me a second.,A
+second,4,4,1.4,Please give me one second.,A
+second,4,4,1.4,I ate a second cookie.,B
+second,4,4,1.4,Hand me the second book on the shelf.,B
+second,4,4,1.4,I ate the cake in **second** place.,D
+second,4,4,1.4,I will be there in one second.,A
+second,4,4,1.4,I took a second look.,B
+second,4,4,1.4,I will sit in the second row.,B
+second,4,4,1.4,Please wait a second.,A
+second,4,4,1.4,Could you pass me the second book on the left?,B
+second,4,4,1.4,I finished my dessert in a second.,A
+second,4,4,1.4,**Wait a second.**,A
+second,4,4,1.4,The spare key is in the second drawer.,B
+second,4,4,1.4,I need a second to think.,A

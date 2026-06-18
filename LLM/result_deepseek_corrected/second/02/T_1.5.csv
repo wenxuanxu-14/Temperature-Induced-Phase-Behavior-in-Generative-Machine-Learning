@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+second,2,2,1.5,I have just one second to finish this.,A
+second,2,2,1.5,I'll have one second of silence.,D
+second,2,2,1.5,That is his second cup of coffee today.,B
+second,2,2,1.5,I will arrive in one second.,A
+second,2,2,1.5,The concert is my second time seeing this band.,B
+second,2,2,1.5,Please wait a second.,A
+second,2,2,1.5,I have a second meeting after lunch.,B
+second,2,2,1.5,Let me have a second slice of cake.,B
+second,2,2,1.5,I ate a second slice of pizza.,B
+second,2,2,1.5,"There was a knock at my door, then a second one, louder.",B
+second,2,2,1.5,I need a second to think.,A
+second,2,2,1.5,I stopped for a second to think.,A
+second,2,2,1.5,He came in second place.,B
+second,2,2,1.5,I parked in the second spot.,B
+second,2,2,1.5,He finished in second place.,B
+second,2,2,1.5,I will take a second to think.,A
+second,2,2,1.5,We can try a second slice of cake.,B
+second,2,2,1.5,She arrived a second after the door closed.,A
+second,2,2,1.5,The second chapter was even better.,B
+second,2,2,1.5,I need a second to think.,A
+second,2,2,1.5,I have a second chance.,B
+second,2,2,1.5,He won the race by a single second.,B
+second,2,2,1.5,I pressed the second button.,B
+second,2,2,1.5,I need a second.,A
+second,2,2,1.5,My second cup of coffee is cold.,B
+second,2,2,1.5,She finished in second place.,B
+second,2,2,1.5,Please wait a second.,A
+second,2,2,1.5,I have a second dog.,B
+second,2,2,1.5,I will have a second cookie.,B
+second,2,2,1.5,I need a second to think.,A
+second,2,2,1.5,Give me a second.,A
+second,2,2,1.5,She finished the race in second place.,B
+second,2,2,1.5,My second favorite color is blue.,B
+second,2,2,1.5,Wait just one second.,A
+second,2,2,1.5,I second that idea.,C
+second,2,2,1.5,I'll have a second helping of dessert.,B
+second,2,2,1.5,I opened my second diary today.,B
+second,2,2,1.5,I spilled my coffee a second ago.,A
+second,2,2,1.5,I need just one more second to finish this.,A
+second,2,2,1.5,I'll take a second helping of dessert.,B
+second,2,2,1.5,He is my second friend.,D
+second,2,2,1.5,She won the race by a second.,A
+second,2,2,1.5,"The party started at eight, but we arrived a second later.",D
+second,2,2,1.5,I will be there in a second.,A
+second,2,2,1.5,He finished the race in second place.,B
+second,2,2,1.5,I'll see you in one second.,A
+second,2,2,1.5,I have a second meeting today.,B
+second,2,2,1.5,I'll have a second slice of cake.,B
+second,2,2,1.5,Time has a second hand that moves silently.,B
+second,2,2,1.5,She came in second place in the race.,B

@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+second,3,3,1.1,I will be there in one second.,A
+second,3,3,1.1,I need a second to think.,A
+second,3,3,1.1,I need a second to think.,A
+second,3,3,1.1,Look both ways before crossing the second street.,B
+second,3,3,1.1,I'll have a second slice of cake.,B
+second,3,3,1.1,I need a second to think.,A
+second,3,3,1.1,I have a second meeting today.,B
+second,3,3,1.1,I’ll be there in a second.,A
+second,3,3,1.1,I will arrive in one second.,A
+second,3,3,1.1,I can wait **a second**.,A
+second,3,3,1.1,I will be there in one second.,A
+second,3,3,1.1,I will wait for just one more second.,A
+second,3,3,1.1,I need a second to think.,A
+second,3,3,1.1,I'll have a second helping of dessert.,B
+second,3,3,1.1,I will be there in one second.,A
+second,3,3,1.1,I ate a second cookie.,B
+second,3,3,1.1,I have a second cup of coffee in the morning.,B
+second,3,3,1.1,I ate a second cookie.,B
+second,3,3,1.1,I will take a second to think.,A
+second,3,3,1.1,I’ll be there in a second.,A
+second,3,3,1.1,I will take a second look.,B
+second,3,3,1.1,She arrived a full second before the bell rang.,B
+second,3,3,1.1,I will be there in one second.,A
+second,3,3,1.1,I will arrive in one second.,A
+second,3,3,1.1,The second cookie was even better.,B
+second,3,3,1.1,I will be there in one second.,A
+second,3,3,1.1,Please wait a second.,A
+second,3,3,1.1,He finished second in the race.,B
+second,3,3,1.1,I'll take a second helping of dessert.,B
+second,3,3,1.1,The second cat was orange.,B
+second,3,3,1.1,I saw the second star tonight.,B
+second,3,3,1.1,I will arrive in one second.,A
+second,3,3,1.1,I need a second to think.,A
+second,3,3,1.1,I need a second to think.,A
+second,3,3,1.1,He won the race by just one second.,A
+second,3,3,1.1,I ate the apple second.,B
+second,3,3,1.1,The second cat is sleeping.,B
+second,3,3,1.1,I will be there in one second.,A
+second,3,3,1.1,I’ll be there in a second.,A
+second,3,3,1.1,I finished my meal in second place.,D
+second,3,3,1.1,We waited a second before crossing the street.,A
+second,3,3,1.1,I need a second to think.,A
+second,3,3,1.1,I need a second to think.,A
+second,3,3,1.1,I have a second chance.,B
+second,3,3,1.1,I need a second to think.,A
+second,3,3,1.1,I parked the car in the second spot.,B
+second,3,3,1.1,He came in second place.,B
+second,3,3,1.1,He won the race by a second.,A
+second,3,3,1.1,I will be there in one second.,A
+second,3,3,1.1,I will be there in one second.,A

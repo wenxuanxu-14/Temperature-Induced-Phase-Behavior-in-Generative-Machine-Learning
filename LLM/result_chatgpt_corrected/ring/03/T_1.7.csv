@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+ring,3,3,1.7,She gave me a beautiful ring.,B
+ring,3,3,1.7,She wore a gold ring.,B
+ring,3,3,1.7,She wears a gold ring.,B
+ring,3,3,1.7,She wore a shiny ring.,B
+ring,3,3,1.7,She wore a silver ring on her finger.,B
+ring,3,3,1.7,She wears a beautiful ring.,B
+ring,3,3,1.7,She gave me a gold ring.,B
+ring,3,3,1.7,She found a gold ring on the table.,B
+ring,3,3,1.7,She heard the phone ring.,A
+ring,3,3,1.7,She wore a shiny gold ring.,B
+ring,3,3,1.7,She will wear a ring on her finger.,B
+ring,3,3,1.7,I see a silver ring on the table.,B
+ring,3,3,1.7,She wore a gold ring on her finger.,B
+ring,3,3,1.7,She receives a beautiful ring for her birthday.,D
+ring,3,3,1.7,She gave me a gold ring.,B
+ring,3,3,1.7,She gave me a shiny gold ring.,B
+ring,3,3,1.7,She wears a gold ring.,B
+ring,3,3,1.7,The bell will ring at noon.,A
+ring,3,3,1.7,She lost her diamond ring.,B
+ring,3,3,1.7,She wore a gold ring on her finger.,B
+ring,3,3,1.7,She wore a gold ring.,B
+ring,3,3,1.7,She gave me a beautiful silver ring.,B
+ring,3,3,1.7,She wears a gold ring on her finger.,B
+ring,3,3,1.7,I found a shiny ring on the table.,B
+ring,3,3,1.7,She gave me a diamond ring.,B
+ring,3,3,1.7,I found a gold ring on the ground.,B
+ring,3,3,1.7,She received a golden ring from her friend.,B
+ring,3,3,1.7,She found a shiny ring in the grass.,B
+ring,3,3,1.7,She wore a beautiful ring.,B
+ring,3,3,1.7,She wore a shiny ring.,B
+ring,3,3,1.7,She wears a gold ring.,B
+ring,3,3,1.7,She will wear the ring tomorrow.,B
+ring,3,3,1.7,She found a gold ring in the garden.,B
+ring,3,3,1.7,She wore a gold ring.,B
+ring,3,3,1.7,She heard the doorbell ring.,A
+ring,3,3,1.7,I found a shiny ring.,B
+ring,3,3,1.7,She wore a pretty ring.,B
+ring,3,3,1.7,I found a shiny ring on the table.,B
+ring,3,3,1.7,She gave me a pretty ring.,B
+ring,3,3,1.7,She wore a gold ring.,B
+ring,3,3,1.7,She gave me a ring for my birthday.,B
+ring,3,3,1.7,She wears a gold ring.,B
+ring,3,3,1.7,She heard the phone ring.,A
+ring,3,3,1.7,She wore a shiny gold ring.,B
+ring,3,3,1.7,She wore a gold ring.,B
+ring,3,3,1.7,She wore a gold ring.,B
+ring,3,3,1.7,She wore a gold ring.,B
+ring,3,3,1.7,The bell began to ring loudly.,A
+ring,3,3,1.7,She gave me a shiny gold ring.,B
+ring,3,3,1.7,I wore a gold ring on my finger.,B

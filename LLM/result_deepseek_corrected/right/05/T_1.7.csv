@@ -1,0 +1,51 @@
+﻿word,run,temp,sentence,label
+right,5,1.7,I have the right to vote.,C
+right,5,1.7,Turn right at the corner.,B
+right,5,1.7,Turn right at the stop sign.,B
+right,5,1.7,I turned right at the corner.,B
+right,5,1.7,The answer is right.,A
+right,5,1.7,Turn right at the tree.,B
+right,5,1.7,I turned right at the corner.,B
+right,5,1.7,"Drive straight ahead, then turn right.",B
+right,5,1.7,Turn right at the corner.,B
+right,5,1.7,Turn right at the red light.,B
+right,5,1.7,Turn right at the corner.,B
+right,5,1.7,The right answer was hidden in plain sight.,A
+right,5,1.7,Make a right turn at the stop sign.,B
+right,5,1.7,Please turn right here.,B
+right,5,1.7,Turn right at the traffic light.,B
+right,5,1.7,Turn right at the sign.,B
+right,5,1.7,Please turn right at the corner.,B
+right,5,1.7,Turn right at the next corner.,B
+right,5,1.7,She turned right at the corner.,B
+right,5,1.7,I have the right to stay silent.,D
+right,5,1.7,Turn right at the traffic light.,B
+right,5,1.7,Turn right at the sign.,B
+right,5,1.7,Turn right at the mailbox.,B
+right,5,1.7,Turn right at the corner.,B
+right,5,1.7,Turn right at the corner.,B
+right,5,1.7,Turn right at the stop sign.,B
+right,5,1.7,Turn right at the next street.,B
+right,5,1.7,The book is on the right.,B
+right,5,1.7,Turn right at the next street corner.,B
+right,5,1.7,Turn right at the end of the path.,B
+right,5,1.7,Turn right at the stop sign.,B
+right,5,1.7,Turn right at the stop sign.,B
+right,5,1.7,Turn right at the next stoplight.,B
+right,5,1.7,The right turn will lead us to the park.,B
+right,5,1.7,Turn right at the next corner.,B
+right,5,1.7,Turn right at the light.,B
+right,5,1.7,I have the right to play outside.,C
+right,5,1.7,Turn right at the next street.,B
+right,5,1.7,Turn right at the next corner.,B
+right,5,1.7,Turn right at the next corner.,B
+right,5,1.7,She has the right to speak.,C
+right,5,1.7,He's standing right next to me.,C
+right,5,1.7,You have the right to say that.,C
+right,5,1.7,Turn right at the next street.,B
+right,5,1.7,He has the right to vote.,C
+right,5,1.7,Use the right tool for the job.,A
+right,5,1.7,I turned right at the traffic light.,B
+right,5,1.7,Step right this way.,B
+right,5,1.7,I am writing on the right side of the paper.,B
+right,5,1.7,Turn right at the stop sign.,B

@@ -1,0 +1,51 @@
+﻿word,run,temp,sentence,label
+right,2,1.5,Turn right at the corner.,B
+right,2,1.5,Turn right at the next corner.,B
+right,2,1.5,Please turn right at the next corner.,B
+right,2,1.5,Please turn right at the corner.,B
+right,2,1.5,The answer is right.,A
+right,2,1.5,That is the right answer.,A
+right,2,1.5,Turn right at the next street.,B
+right,2,1.5,Turn right at the next street.,B
+right,2,1.5,Turn right at the traffic light.,B
+right,2,1.5,Turn right at the corner.,B
+right,2,1.5,Turn right at the corner.,B
+right,2,1.5,Turn right at the corner.,B
+right,2,1.5,The answer is on the right.,B
+right,2,1.5,Turn right at the corner.,B
+right,2,1.5,Turn right at the traffic light.,B
+right,2,1.5,Turn right at the next street.,B
+right,2,1.5,I have the right to be here.,C
+right,2,1.5,Turn right at the next corner.,B
+right,2,1.5,She knows the right answer.,A
+right,2,1.5,Use your right hand to point at the chair.,B
+right,2,1.5,Turn right at the stop sign.,B
+right,2,1.5,Turn right at the next corner.,B
+right,2,1.5,Turn right at the next corner.,B
+right,2,1.5,Please go right ahead.,C
+right,2,1.5,Turn right at the stop sign.,B
+right,2,1.5,Use the right tool for the job.,A
+right,2,1.5,Turn right at the next corner.,B
+right,2,1.5,That is the right answer.,A
+right,2,1.5,Turn right at the corner.,B
+right,2,1.5,You are right.,A
+right,2,1.5,Turn right at the corner.,B
+right,2,1.5,Turn right at the next corner.,B
+right,2,1.5,Turn right at the corner.,B
+right,2,1.5,Turn right at the corner.,B
+right,2,1.5,Turn right at the next corner.,B
+right,2,1.5,Right is the correct answer.,D
+right,2,1.5,Turn right at the next street.,B
+right,2,1.5,Turn right at the stop sign.,B
+right,2,1.5,Turn right at the corner.,B
+right,2,1.5,Turn right at the next corner.,B
+right,2,1.5,Turn right at the stop sign.,B
+right,2,1.5,Turn right at the corner.,B
+right,2,1.5,She had the right answer.,A
+right,2,1.5,Turn right at the corner.,B
+right,2,1.5,She turned right at the corner.,B
+right,2,1.5,Turn right at the corner.,B
+right,2,1.5,Turn right at the next corner.,B
+right,2,1.5,Keep right at the fork.,B
+right,2,1.5,Turn right at the corner.,B
+right,2,1.5,Turn right at the next corner.,B

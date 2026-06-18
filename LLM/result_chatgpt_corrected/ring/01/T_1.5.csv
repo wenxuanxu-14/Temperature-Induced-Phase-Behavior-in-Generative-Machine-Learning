@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+ring,1,1,1.5,She gave me a beautiful ring.,B
+ring,1,1,1.5,She wore a gold ring.,B
+ring,1,1,1.5,She gave me a beautiful ring.,B
+ring,1,1,1.5,She wore a beautiful gold ring.,B
+ring,1,1,1.5,She wears a gold ring.,B
+ring,1,1,1.5,She wears a gold ring.,B
+ring,1,1,1.5,She found a gold ring in the garden.,B
+ring,1,1,1.5,She found a shiny ring on the table.,B
+ring,1,1,1.5,She wears a ring on her finger.,B
+ring,1,1,1.5,She found a beautiful gold ring.,B
+ring,1,1,1.5,She got a beautiful ring.,B
+ring,1,1,1.5,She wore a beautiful ring.,B
+ring,1,1,1.5,She wore a sparkling ring on her finger.,B
+ring,1,1,1.5,She wore a gold ring on her finger.,B
+ring,1,1,1.5,She wears a beautiful ring.,B
+ring,1,1,1.5,The phone began to ring loudly.,A
+ring,1,1,1.5,She wears a gold ring.,B
+ring,1,1,1.5,I found a shiny ring on the table.,B
+ring,1,1,1.5,She wore a gold ring on her finger.,B
+ring,1,1,1.5,I put a ring on my finger.,B
+ring,1,1,1.5,She gave me a beautiful ring.,B
+ring,1,1,1.5,She wore a gold ring.,B
+ring,1,1,1.5,She found a beautiful ring on the table.,B
+ring,1,1,1.5,She found a shiny ring on the table.,B
+ring,1,1,1.5,She gave me a beautiful ring.,B
+ring,1,1,1.5,She wears a ring on her finger.,B
+ring,1,1,1.5,She gave me a ring.,C
+ring,1,1,1.5,She wears a gold ring.,B
+ring,1,1,1.5,She gave me a beautiful ring.,B
+ring,1,1,1.5,She gave me a ring for my birthday.,B
+ring,1,1,1.5,She wears a gold ring.,B
+ring,1,1,1.5,She wore a beautiful ring.,B
+ring,1,1,1.5,She wore a gold ring on her finger.,B
+ring,1,1,1.5,She bought a shiny gold ring.,B
+ring,1,1,1.5,I found a gold ring on the table.,B
+ring,1,1,1.5,I found a gold ring on the table.,B
+ring,1,1,1.5,She found a small gold ring.,B
+ring,1,1,1.5,She wore a gold ring on her finger.,B
+ring,1,1,1.5,She wore a gold ring.,B
+ring,1,1,1.5,She wore a shiny ring on her finger.,B
+ring,1,1,1.5,She wears a gold ring.,B
+ring,1,1,1.5,She gave me a ring for my birthday.,B
+ring,1,1,1.5,She wore a gold ring.,B
+ring,1,1,1.5,She wore a gold ring.,B
+ring,1,1,1.5,She wears a gold ring.,B
+ring,1,1,1.5,She put on a gold ring.,B
+ring,1,1,1.5,She wears a gold ring.,B
+ring,1,1,1.5,She wore a beautiful silver ring.,B
+ring,1,1,1.5,She wore a beautiful ring.,B
+ring,1,1,1.5,She wore a shiny ring.,B

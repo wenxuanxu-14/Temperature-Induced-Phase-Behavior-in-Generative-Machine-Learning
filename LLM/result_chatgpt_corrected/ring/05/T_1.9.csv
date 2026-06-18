@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+ring,5,5,1.9,I found a shiny ring on the table.,B
+ring,5,5,1.9,I will wear a ring on my finger.,B
+ring,5,5,1.9,She wore a gold ring on her finger.,B
+ring,5,5,1.9,She wore a small ring on her finger.,B
+ring,5,5,1.9,She heard the doorbell ring.,A
+ring,5,5,1.9,I hear the phone ring.,A
+ring,5,5,1.9,She wore a ring on her finger.,B
+ring,5,5,1.9,She saw the beautiful ring on his finger.,B
+ring,5,5,1.9,I gave her a flower-shaped ring.,B
+ring,5,5,1.9,She wears a gold ring.,B
+ring,5,5,1.9,She wore a shiny ring on her finger.,B
+ring,5,5,1.9,I found a shiny ring on the table.,B
+ring,5,5,1.9,She wears a silver ring on her finger.,B
+ring,5,5,1.9,She found a silver ring on the beach.,B
+ring,5,5,1.9,She heard the ring of the telephone.,A
+ring,5,5,1.9,She gave me a beautiful ring.,B
+ring,5,5,1.9,She gave me a beautiful ring.,B
+ring,5,5,1.9,She wore a shiny gold ring.,B
+ring,5,5,1.9,She wears a gold ring.,B
+ring,5,5,1.9,She wears a gold ring.,B
+ring,5,5,1.9,She slipped the ring onto her finger.,B
+ring,5,5,1.9,She found a beautiful gold ring.,B
+ring,5,5,1.9,She wears a beautiful ring.,B
+ring,5,5,1.9,She gave me a gold ring.,B
+ring,5,5,1.9,She heard the phone ring.,A
+ring,5,5,1.9,She wore a shiny ring on her finger.,B
+ring,5,5,1.9,She placed a shiny ring on her finger.,B
+ring,5,5,1.9,The dog found a shiny ring.,B
+ring,5,5,1.9,The phone began to ring loudly.,A
+ring,5,5,1.9,I wear a ring on my finger.,B
+ring,5,5,1.9,She gave him a shiny gold ring.,B
+ring,5,5,1.9,She wore a shiny ring.,B
+ring,5,5,1.9,She gave me a ring.,C
+ring,5,5,1.9,I found a shiny ring on the ground.,B
+ring,5,5,1.9,She wore a gold ring on her finger.,B
+ring,5,5,1.9,She gave me a gold ring.,B
+ring,5,5,1.9,She wore a shining ring on her finger.,D
+ring,5,5,1.9,She received a ring as a birthday gift.,B
+ring,5,5,1.9,She wears a gold ring on her finger.,B
+ring,5,5,1.9,She heard the phone ring.,A
+ring,5,5,1.9,"She gave her love a bright, silver ring.",B
+ring,5,5,1.9,She heard the phone ring.,A
+ring,5,5,1.9,I wear a silver ring on my finger.,B
+ring,5,5,1.9,She worn a gold ring.,D
+ring,5,5,1.9,She gave me a gold ring.,B
+ring,5,5,1.9,She wore a ring on her finger.,B
+ring,5,5,1.9,She will wear a silver ring.,B
+ring,5,5,1.9,She received a beautiful ring.,B
+ring,5,5,1.9,She will wear the ring.,B
+ring,5,5,1.9,She wore a gold ring.,B

@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+ring,1,1,1.8,She wears a ring on her finger.,B
+ring,1,1,1.8,The heavy **ring** caught the light from the lamp.,B
+ring,1,1,1.8,He wore a gold ring on his finger.,B
+ring,1,1,1.8,She put a ring on her finger.,B
+ring,1,1,1.8,She wears a gold ring on her finger.,B
+ring,1,1,1.8,She wore a silver ring.,B
+ring,1,1,1.8,He gave her a silver ring.,B
+ring,1,1,1.8,The chef wrapped a ring of braided dough around his spoon.,B
+ring,1,1,1.8,She wears a silver ring on her finger.,B
+ring,1,1,1.8,She dropped the metal ring into the box.,B
+ring,1,1,1.8,I put a ring on my finger.,B
+ring,1,1,1.8,He puts a ring on her finger.,B
+ring,1,1,1.8,She likes her new silver ring.,B
+ring,1,1,1.8,She has a pretty ring on her finger.,B
+ring,1,1,1.8,He put a ring on her finger after her daughter tested his skill fit punishment,D
+ring,1,1,1.8,I put the key ring in my pocket.,B
+ring,1,1,1.8,I put the ring on my finger.,B
+ring,1,1,1.8,She wears a golden ring on her finger.,B
+ring,1,1,1.8,She wore a silver ring on her finger.,B
+ring,1,1,1.8,She gave him a simple silver ring.,B
+ring,1,1,1.8,She wears a ring on her finger.,B
+ring,1,1,1.8,She wears a gold ring on her finger.,B
+ring,1,1,1.8,She wears a gold ring on her finger.,B
+ring,1,1,1.8,He wears a gold wedding ring.,B
+ring,1,1,1.8,She wears a shiny golden ring.,B
+ring,1,1,1.8,I put a ring on my finger.,B
+ring,1,1,1.8,She put the ring back in the box.,B
+ring,1,1,1.8,She put a golden ring on her finger.,B
+ring,1,1,1.8,Please **ring** the bell.,A
+ring,1,1,1.8,He put the ring on her finger.,B
+ring,1,1,1.8,A golden **ring** rested on the table.,B
+ring,1,1,1.8,She left her ring on the bedside table.,B
+ring,1,1,1.8,She put on a blue ring.,B
+ring,1,1,1.8,She slipped the golden ring onto her finger.,B
+ring,1,1,1.8,She wears a silver ring.,B
+ring,1,1,1.8,She put the silver ring on her finger.,B
+ring,1,1,1.8,"His keys fall upon bronze basin handle, fragile metal lips ring the moon's absence.",D
+ring,1,1,1.8,I put a ring on my finger.,B
+ring,1,1,1.8,She wears a gold ring.,B
+ring,1,1,1.8,The phone began to ring.,A
+ring,1,1,1.8,She wears a ring on her finger.,B
+ring,1,1,1.8,She wears a gold ring.,B
+ring,1,1,1.8,She wears a shiny silver ring.,B
+ring,1,1,1.8,She wears a golden ring.,B
+ring,1,1,1.8,He wore a gold ring.,B
+ring,1,1,1.8,Her wedding ring sparkled in the light.,B
+ring,1,1,1.8,She wore a gold ring.,B
+ring,1,1,1.8,He put a gold ring on her finger.,B
+ring,1,1,1.8,The ring on her finger sparkled in the sunlight.,B
+ring,1,1,1.8,Please **ring** the doorbell because my hands are full.,A

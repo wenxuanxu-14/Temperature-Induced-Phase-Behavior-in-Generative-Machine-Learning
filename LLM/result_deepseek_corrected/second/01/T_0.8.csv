@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+second,1,1,0.8,I ate a second cookie.,B
+second,1,1,0.8,I need a second to think.,A
+second,1,1,0.8,I'll have a second helping of dessert.,B
+second,1,1,0.8,I have a second chance.,B
+second,1,1,0.8,I had a second slice of cake.,B
+second,1,1,0.8,I will take a second to think.,A
+second,1,1,0.8,She finished the race in second place.,B
+second,1,1,0.8,I need a second to think.,A
+second,1,1,0.8,I need a second to think.,A
+second,1,1,0.8,I will be there in one second.,A
+second,1,1,0.8,I will take a second look at the map.,B
+second,1,1,0.8,I’ll be there in a second.,A
+second,1,1,0.8,I'll take a second look at my work.,B
+second,1,1,0.8,I need a second to think.,A
+second,1,1,0.8,I'll have a second cup of coffee.,B
+second,1,1,0.8,I need a second to think.,A
+second,1,1,0.8,I will be there in one second.,A
+second,1,1,0.8,She came in second place.,B
+second,1,1,0.8,I finished my homework in a second.,A
+second,1,1,0.8,I need a second to think.,A
+second,1,1,0.8,I need a second to think.,A
+second,1,1,0.8,I will be there in one second.,A
+second,1,1,0.8,I need a second to think.,A
+second,1,1,0.8,He finished in second place.,B
+second,1,1,0.8,I'll have a second helping of dinner.,B
+second,1,1,0.8,She finished the race in second place.,B
+second,1,1,0.8,I need a second to think.,A
+second,1,1,0.8,I ate a second cookie.,B
+second,1,1,0.8,I will be there in one second.,A
+second,1,1,0.8,I will be there in one second.,A
+second,1,1,0.8,I need a second to think.,A
+second,1,1,0.8,I will be there in one second.,A
+second,1,1,0.8,I need a second to think.,A
+second,1,1,0.8,I'll have a second piece of cake.,B
+second,1,1,0.8,I need a second to think.,A
+second,1,1,0.8,Please give me one second.,A
+second,1,1,0.8,I need a second to think.,A
+second,1,1,0.8,I will eat the second slice of cake.,B
+second,1,1,0.8,I will take a second to think.,A
+second,1,1,0.8,I need a second to think.,A
+second,1,1,0.8,I need a second to finish this.,A
+second,1,1,0.8,I'll take a second helping of dessert.,B
+second,1,1,0.8,The second runner crossed the finish line.,B
+second,1,1,0.8,I will be there in one second.,A
+second,1,1,0.8,I need a second to think.,A
+second,1,1,0.8,I will be there in a second.,A
+second,1,1,0.8,I need a second to think.,A
+second,1,1,0.8,I have one second to answer.,A
+second,1,1,0.8,I will be there in one second.,A
+second,1,1,0.8,He came in second place.,B

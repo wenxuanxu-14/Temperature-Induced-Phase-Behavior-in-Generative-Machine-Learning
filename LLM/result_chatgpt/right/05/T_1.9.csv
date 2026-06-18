@@ -1,0 +1,51 @@
+﻿word,run,temp,sentence,label
+right,5,1.9,She turned right at the sign.,B
+right,5,1.9,You took a right turn.,B
+right,5,1.9,You turned right at the corner.,B
+right,5,1.9,You are sitting in the right chair.,B
+right,5,1.9,You have the right answer.,A
+right,5,1.9,You turned right at the corner.,B
+right,5,1.9,You should turn right at the next street.,D
+right,5,1.9,You ate the music right.,D
+right,5,1.9,You made the right choice.,A
+right,5,1.9,You were right about the time.,A
+right,5,1.9,You was right about the movie.,D
+right,5,1.9,You were right about the weather.,A
+right,5,1.9,You turned the steering wheel to the right.,B
+right,5,1.9,She turned right at the corner.,B
+right,5,1.9,You were right about the temperature.,A
+right,5,1.9,You turned right at the corner.,B
+right,5,1.9,Turn right at the next corner.,B
+right,5,1.9,You have the right answer.,A
+right,5,1.9,You have the right answer.,A
+right,5,1.9,You made the right choice.,A
+right,5,1.9,You made the right choice.,A
+right,5,1.9,You turned right at the corner.,B
+right,5,1.9,She turned right at the corner.,B
+right,5,1.9,You were right about the answer.,A
+right,5,1.9,You turned right at the corner.,B
+right,5,1.9,Turn right at the next corner.,B
+right,5,1.9,You turned right at the corner.,B
+right,5,1.9,You have the right answer.,A
+right,5,1.9,She turned right at the corner.,B
+right,5,1.9,You wrote the answer on the right.,B
+right,5,1.9,You turned right at the corner.,B
+right,5,1.9,Take a right turn at the next street.,D
+right,5,1.9,You turned right at the corner.,B
+right,5,1.9,You made the right choice.,A
+right,5,1.9,She turned right at the corner.,B
+right,5,1.9,You are doing the right thing.,A
+right,5,1.9,I took a right turn.,B
+right,5,1.9,You turned left instead of right.,B
+right,5,1.9,She turned right at theCorner.,D
+right,5,1.9,You turned right at the corner.,B
+right,5,1.9,You have the right answer.,A
+right,5,1.9,You have the right answer.,A
+right,5,1.9,You waving your hand to the right.,D
+right,5,1.9,You have the right answer.,A
+right,5,1.9,You turned right at the corner.,B
+right,5,1.9,You turned right at the corner.,B
+right,5,1.9,You have the right answer.,A
+right,5,1.9,You have the right answers.,A
+right,5,1.9,She turned right at the corner.,B
+right,5,1.9,You made the right choice.,A

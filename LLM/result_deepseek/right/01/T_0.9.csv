@@ -1,0 +1,51 @@
+﻿word,run,temp,sentence,label
+right,1,0.9,Turn right at the next street.,B
+right,1,0.9,Turn right at the next street.,B
+right,1,0.9,Turn right at the next corner.,B
+right,1,0.9,Turn right at the corner.,B
+right,1,0.9,Turn right at the next corner.,B
+right,1,0.9,Turn right at the corner.,B
+right,1,0.9,Turn right at the corner.,B
+right,1,0.9,Turn right at the stop sign.,B
+right,1,0.9,Turn right at the next street.,B
+right,1,0.9,Turn right at the corner.,B
+right,1,0.9,Turn right at the next street.,B
+right,1,0.9,Turn right at the next street.,B
+right,1,0.9,Turn right at the stop sign.,B
+right,1,0.9,Turn right at the next corner.,B
+right,1,0.9,Turn right at the corner.,B
+right,1,0.9,Turn right at the next street.,B
+right,1,0.9,Use your right hand.,B
+right,1,0.9,Turn right at the corner.,B
+right,1,0.9,Turn right at the next corner.,B
+right,1,0.9,I have a right to speak.,C
+right,1,0.9,Turn right at the next corner.,B
+right,1,0.9,The answer is right.,A
+right,1,0.9,Turn right at the next street.,B
+right,1,0.9,Turn right at the next corner.,B
+right,1,0.9,Turn right at the corner.,B
+right,1,0.9,Turn right at the next street.,B
+right,1,0.9,Turn right at the next corner.,B
+right,1,0.9,Turn right at the corner.,B
+right,1,0.9,Turn right at the next corner.,B
+right,1,0.9,Turn right at the next street.,B
+right,1,0.9,Turn right at the next corner.,B
+right,1,0.9,Turn right at the next street.,B
+right,1,0.9,Turn right at the corner.,B
+right,1,0.9,Turn right at the next corner.,B
+right,1,0.9,Turn right at the next street.,B
+right,1,0.9,Turn right at the next corner.,B
+right,1,0.9,Turn right at the next corner.,B
+right,1,0.9,Turn right at the stop sign.,B
+right,1,0.9,He turned right at the corner.,B
+right,1,0.9,Turn right at the corner.,B
+right,1,0.9,Turn right at the corner.,B
+right,1,0.9,Turn right at the next corner.,B
+right,1,0.9,Turn right at the next corner.,B
+right,1,0.9,Turn right at the next street.,B
+right,1,0.9,Turn right at the next corner.,B
+right,1,0.9,Turn right at the next street.,B
+right,1,0.9,Turn right at the corner.,B
+right,1,0.9,She has the right to speak.,C
+right,1,0.9,Turn right at the corner.,B
+right,1,0.9,Turn right at the next corner.,B

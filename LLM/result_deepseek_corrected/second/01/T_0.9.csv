@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+second,1,1,0.9,I eat lunch second.,B
+second,1,1,0.9,I will be there in one second.,A
+second,1,1,0.9,I need a second to think.,A
+second,1,1,0.9,I need a second to think.,A
+second,1,1,0.9,The second runner crossed the finish line.,B
+second,1,1,0.9,I play the second game.,B
+second,1,1,0.9,I finished second in the race.,B
+second,1,1,0.9,I need a second to think.,A
+second,1,1,0.9,I need a second to think.,A
+second,1,1,0.9,I will be ready in one second.,A
+second,1,1,0.9,He finished the race in second place.,B
+second,1,1,0.9,I'll take a second look.,B
+second,1,1,0.9,The second book on the shelf is mine.,B
+second,1,1,0.9,I took a second look at the painting.,B
+second,1,1,0.9,I have a second chance to finish my homework.,B
+second,1,1,0.9,I will arrive in one second.,A
+second,1,1,0.9,She finished second in the race.,B
+second,1,1,0.9,She finished the race in second place.,B
+second,1,1,0.9,I will be there in a second.,A
+second,1,1,0.9,I need a second to think.,A
+second,1,1,0.9,I will be there in one second.,A
+second,1,1,0.9,I will be there in one second.,A
+second,1,1,0.9,I will be there in one second.,A
+second,1,1,0.9,I need a second to think.,A
+second,1,1,0.9,She finished the race in second place.,B
+second,1,1,0.9,I'll take a second to think about it.,A
+second,1,1,0.9,I need a second to think.,A
+second,1,1,0.9,I have a second watch.,B
+second,1,1,0.9,She took a second look at the painting.,B
+second,1,1,0.9,I need a second to think.,A
+second,1,1,0.9,I need a second to think.,A
+second,1,1,0.9,**She won second place in the race.**,B
+second,1,1,0.9,I'll have a second helping of dessert.,B
+second,1,1,0.9,I need a second to think.,A
+second,1,1,0.9,I need a second to think.,A
+second,1,1,0.9,I second that idea.,C
+second,1,1,0.9,I have a second watch.,B
+second,1,1,0.9,I will arrive in one second.,A
+second,1,1,0.9,He finished second in the race.,B
+second,1,1,0.9,I'll have a second helping of dessert.,B
+second,1,1,0.9,We ate a second slice of cake.,B
+second,1,1,0.9,The second cookie was even better than the first.,B
+second,1,1,0.9,He finished the race in second place.,B
+second,1,1,0.9,She finished in second place.,B
+second,1,1,0.9,I need a second to think.,A
+second,1,1,0.9,I'll take a second slice of cake.,B
+second,1,1,0.9,I'll have a second slice of cake.,B
+second,1,1,0.9,I will arrive in one second.,A
+second,1,1,0.9,She arrived a second late.,A
+second,1,1,0.9,The second runner crossed the finish line.,B

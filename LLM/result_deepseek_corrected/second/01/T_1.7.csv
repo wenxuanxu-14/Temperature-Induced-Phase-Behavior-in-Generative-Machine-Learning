@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+second,1,1,1.7,Second base is faster than first for scoring from second.,D
+second,1,1,1.7,He came second in the race.,B
+second,1,1,1.7,I will be second in line.,B
+second,1,1,1.7,I will have a second helping of dessert!,B
+second,1,1,1.7,The second book was better.,B
+second,1,1,1.7,Hand me the one on the second shelf.,B
+second,1,1,1.7,I need a second to think.,A
+second,1,1,1.7,He came in second place.,B
+second,1,1,1.7,She finished second in the race.,B
+second,1,1,1.7,I'll take a second helping.,B
+second,1,1,1.7,I’ll be there in one second.,A
+second,1,1,1.7,"I ran home just in the second place winner's circle two his for morning — based tie off possible stepword without no, that meant I extra second",D
+second,1,1,1.7,"He won the race, coming in second.",D
+second,1,1,1.7,I will see you in a second.,A
+second,1,1,1.7,I came second in the race.,B
+second,1,1,1.7,I ate a second cookie.,B
+second,1,1,1.7,He ran a close second in the race.,B
+second,1,1,1.7,He won **second** place in the race.,B
+second,1,1,1.7,She came in second place in the race.,B
+second,1,1,1.7,My second coffee is cold.,B
+second,1,1,1.7,I arrived one second late.,A
+second,1,1,1.7,He finished second in the race.,B
+second,1,1,1.7,He runs a secon**d** race volunteer before teaching first period.,D
+second,1,1,1.7,She finishes her calculations in a single second.,A
+second,1,1,1.7,I finished my meal in just one second.,D
+second,1,1,1.7,The second cake was delicious.,B
+second,1,1,1.7,Let me eat just one more and you can have the second.,B
+second,1,1,1.7,I won second place in the race.,B
+second,1,1,1.7,**Sunday is his second favorite day.**,B
+second,1,1,1.7,"She finished first in the first race, but came second in the second one.",B
+second,1,1,1.7,My second question is about math.,B
+second,1,1,1.7,Choose the second cookie.,B
+second,1,1,1.7,She finished the race in second place.,B
+second,1,1,1.7,That is her second cup of tea today.,B
+second,1,1,1.7,"**Second, please pass the salt.**",D
+second,1,1,1.7,He came in second place.,B
+second,1,1,1.7,That is my second glass of water.,B
+second,1,1,1.7,I placed second in the race.,B
+second,1,1,1.7,I will be there in one second.,A
+second,1,1,1.7,I need a second to think.,A
+second,1,1,1.7,My second attempt worked.,B
+second,1,1,1.7,I need a second to finish this.,A
+second,1,1,1.7,I was delayed by just a second.,A
+second,1,1,1.7,He scored a second goal.,B
+second,1,1,1.7,He finished in second place.,B
+second,1,1,1.7,The second house on the street is mine.,B
+second,1,1,1.7,Please wait one second.,A
+second,1,1,1.7,I'll take a second piece of cake.,B
+second,1,1,1.7,I need a second to think.,A
+second,1,1,1.7,**It happened in a split second.**,A

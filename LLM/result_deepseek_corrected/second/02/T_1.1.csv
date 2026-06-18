@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+second,2,2,1.1,I’ll be there in a second.,A
+second,2,2,1.1,I ate a second slice of cake.,B
+second,2,2,1.1,I eat dinner second.,D
+second,2,2,1.1,I came in second place.,B
+second,2,2,1.1,I have a second thought about that plan.,D
+second,2,2,1.1,Please wait a second.,A
+second,2,2,1.1,Let me have a second cookie.,B
+second,2,2,1.1,I'll have a second helping of dessert.,B
+second,2,2,1.1,I took a second look.,B
+second,2,2,1.1,I need one second.,A
+second,2,2,1.1,He was the second to arrive.,B
+second,2,2,1.1,I need a second to think.,A
+second,2,2,1.1,Please give me one second.,A
+second,2,2,1.1,I will arrive in one second.,A
+second,2,2,1.1,I missed the second train this morning.,B
+second,2,2,1.1,I need a second to think.,A
+second,2,2,1.1,I will take a second to think.,A
+second,2,2,1.1,I need a second to think.,A
+second,2,2,1.1,I need a second to think.,A
+second,2,2,1.1,I chose the second door.,B
+second,2,2,1.1,I need a second to finish this.,A
+second,2,2,1.1,Please give me a second.,A
+second,2,2,1.1,I will be there in one second.,A
+second,2,2,1.1,I will wait for a second.,A
+second,2,2,1.1,Please give me one second.,A
+second,2,2,1.1,I'll have a second helping of pie.,B
+second,2,2,1.1,I need a second to think.,A
+second,2,2,1.1,I need a second to think.,A
+second,2,2,1.1,He was second in the race.,B
+second,2,2,1.1,I need a second to think.,A
+second,2,2,1.1,I need a second to think.,A
+second,2,2,1.1,I need a second to think.,A
+second,2,2,1.1,I need a second to think.,A
+second,2,2,1.1,I need a second to think.,A
+second,2,2,1.1,I need a second to think.,A
+second,2,2,1.1,I have a second cat.,B
+second,2,2,1.1,Please wait a second.,A
+second,2,2,1.1,Please wait a second.,A
+second,2,2,1.1,I'll have a second helping of dessert.,B
+second,2,2,1.1,I will eat the second apple.,B
+second,2,2,1.1,I'll take a second to think.,A
+second,2,2,1.1,I have a second watch.,B
+second,2,2,1.1,I'll have a second cup of coffee.,B
+second,2,2,1.1,I will be there in one second.,A
+second,2,2,1.1,I will be there in a second.,A
+second,2,2,1.1,I will be there in one second.,A
+second,2,2,1.1,I'll have a second cookie.,B
+second,2,2,1.1,I will be there in one second.,A
+second,2,2,1.1,I'll take a second look at this question.,B
+second,2,2,1.1,I'll have a second helping of dessert.,B

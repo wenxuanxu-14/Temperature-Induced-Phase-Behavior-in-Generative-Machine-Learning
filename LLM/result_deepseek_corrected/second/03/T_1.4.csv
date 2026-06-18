@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+second,3,3,1.4,I gave my second answer.,B
+second,3,3,1.4,My second cup of coffee woke me up.,B
+second,3,3,1.4,I will take a second to think.,A
+second,3,3,1.4,The second book was more interesting.,B
+second,3,3,1.4,Put your jacket on the second shelf.,B
+second,3,3,1.4,I finished my homework in one second.,A
+second,3,3,1.4,He waited a second before answering.,A
+second,3,3,1.4,He came in second place.,B
+second,3,3,1.4,I need a second to think.,A
+second,3,3,1.4,I will be there in a second.,A
+second,3,3,1.4,I will take a second to think.,A
+second,3,3,1.4,I will be there in one second.,A
+second,3,3,1.4,I hit my second home run.,B
+second,3,3,1.4,He finished in second place.,B
+second,3,3,1.4,Please wait a second.,A
+second,3,3,1.4,I will arrive in just one second.,A
+second,3,3,1.4,A minute has sixty seconds.,A
+second,3,3,1.4,I won the race by one second.,A
+second,3,3,1.4,The second runner crossed the finish line.,B
+second,3,3,1.4,"I have one apple, and you have a second apple.",B
+second,3,3,1.4,An idea struck her a second later.,A
+second,3,3,1.4,I will be there in one second.,A
+second,3,3,1.4,It is my second cup of coffee today.,B
+second,3,3,1.4,I ate a second cookie.,B
+second,3,3,1.4,I should take a **second** look at this map.,B
+second,3,3,1.4,I need a second to think.,A
+second,3,3,1.4,The second cookie was gone in a bite.,D
+second,3,3,1.4,I second that idea.,C
+second,3,3,1.4,They chose him second in the draft.,B
+second,3,3,1.4,He finished second in the race.,B
+second,3,3,1.4,She finished the race in second place.,B
+second,3,3,1.4,Let the second part begin.,B
+second,3,3,1.4,She finished the race in second place.,B
+second,3,3,1.4,I will take a second to think.,A
+second,3,3,1.4,We have a second cat.,B
+second,3,3,1.4,I ate a second slice of cake.,B
+second,3,3,1.4,I missed the second train.,B
+second,3,3,1.4,Please pass me the second book.,B
+second,3,3,1.4,I ate a second piece of cake.,B
+second,3,3,1.4,I need a second to think.,A
+second,3,3,1.4,"In a race, I came second.",B
+second,3,3,1.4,I need a second to think.,A
+second,3,3,1.4,I tripped for a second.,A
+second,3,3,1.4,I will be there in one second.,A
+second,3,3,1.4,You can have a second helping of dessert.,B
+second,3,3,1.4,I will wait just one second.,A
+second,3,3,1.4,The second book was better.,B
+second,3,3,1.4,Let me have a second to think.,A
+second,3,3,1.4,He finished in second place.,B
+second,3,3,1.4,I will see you in one second.,A

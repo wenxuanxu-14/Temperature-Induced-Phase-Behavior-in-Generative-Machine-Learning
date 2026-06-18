@@ -1,0 +1,51 @@
+﻿word,run,temp,sentence,label
+right,3,1.5,You turned right at the corner.,B
+right,3,1.5,You are right about the answer.,A
+right,3,1.5,You are right about the answer.,A
+right,3,1.5,You turned the corner at the right place.,A
+right,3,1.5,You turned the right way.,B
+right,3,1.5,You turned right at the corner.,B
+right,3,1.5,You turned right at the corner.,B
+right,3,1.5,She turned right at the corner.,B
+right,3,1.5,You turned right at the corner.,B
+right,3,1.5,She turned right at the corner.,B
+right,3,1.5,You turned right at the corner.,B
+right,3,1.5,You have the right answer.,A
+right,3,1.5,You are right.,A
+right,3,1.5,You have the right answer.,A
+right,3,1.5,You have the right answer.,A
+right,3,1.5,You turned right at the corner.,B
+right,3,1.5,You were right about the movie.,A
+right,3,1.5,You should turn right at the stop sign.,B
+right,3,1.5,You turned right at the corner.,B
+right,3,1.5,You turned right at the corner.,B
+right,3,1.5,You gave me the right answer.,A
+right,3,1.5,You have the right answer.,A
+right,3,1.5,You were right about the weather.,A
+right,3,1.5,You took the right path.,B
+right,3,1.5,You have the right answer.,A
+right,3,1.5,You turned right at the corner.,B
+right,3,1.5,You turned right at the corner.,B
+right,3,1.5,You have the right answer.,A
+right,3,1.5,You turned right at the corner.,B
+right,3,1.5,You have the right answer.,A
+right,3,1.5,You have the right answer.,A
+right,3,1.5,You were right about the weather today.,A
+right,3,1.5,You turned right at the corner.,B
+right,3,1.5,You turned right at the corner.,B
+right,3,1.5,You turned right at the corner.,B
+right,3,1.5,You turned right at the corner.,B
+right,3,1.5,You have the right to ask questions.,C
+right,3,1.5,You turned the corner to the right.,B
+right,3,1.5,You made the right choice.,A
+right,3,1.5,You have the right answer.,A
+right,3,1.5,She turned right at the stop sign.,B
+right,3,1.5,You have the right answer.,A
+right,3,1.5,You have the right answer.,A
+right,3,1.5,You turned right at the corner.,B
+right,3,1.5,You were right about the answer.,A
+right,3,1.5,You turned right at the corner.,B
+right,3,1.5,You turned right at the corner.,B
+right,3,1.5,You are standing in the right place.,A
+right,3,1.5,You have the right answer.,A
+right,3,1.5,You have the right to choose.,C

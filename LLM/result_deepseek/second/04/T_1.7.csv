@@ -1,0 +1,51 @@
+﻿word,run,temp,sentence,label
+second,4,1.7,I will take a second to rest.,A
+second,4,1.7,I chose the second movie.,B
+second,4,1.7,The second test was easier.,B
+second,4,1.7,She ran the race in second place.,B
+second,4,1.7,He finished second in the race.,B
+second,4,1.7,"I got a single, simple second to decide before leaving.",B
+second,4,1.7,I need a second cup of coffee.,B
+second,4,1.7,I need a second to think.,A
+second,4,1.7,Wait a second while I tie my shoe.,A
+second,4,1.7,The car was lost for a second.,B
+second,4,1.7,I asked for a second helping of mashed potatoes.,B
+second,4,1.7,He finished in second place.,B
+second,4,1.7,I ordered a second slice of cake.,B
+second,4,1.7,I need a second cup of coffee.,B
+second,4,1.7,Please wait a second.,A
+second,4,1.7,He won a silver medal for finishing second.,B
+second,4,1.7,My second cup of coffee is cold.,B
+second,4,1.7,I went to the second store.,B
+second,4,1.7,The runner finished in second place.,B
+second,4,1.7,**Possible Answer:**,D
+second,4,1.7,I failed the first test but passed the second.,B
+second,4,1.7,I forgot to grab my umbrella a second ago.,B
+second,4,1.7,He will arrive second in the race.,B
+second,4,1.7,I have a second job.,B
+second,4,1.7,"It is my opinion, second to none.",D
+second,4,1.7,He finished in second place.,B
+second,4,1.7,I need a second quiet lunch.,D
+second,4,1.7,Let me wait a second.,D
+second,4,1.7,Think before you speak a second time.,D
+second,4,1.7,"Second, please pass the salt.",D
+second,4,1.7,I accidentally dropped my phone for a second.,A
+second,4,1.7,She finished the race in second place.,B
+second,4,1.7,I’ll be there in one second.,A
+second,4,1.7,I live on the second floor.,B
+second,4,1.7,He arrived a second late.,B
+second,4,1.7,The dog is my second pet.,B
+second,4,1.7,I'll have a second helping of dinner.,B
+second,4,1.7,"She reached my desk **second, after my colleague. *(or let me rewrite purposely)...*",D
+second,4,1.7,**Meaning: a unit of time.**,D
+second,4,1.7,Please wait a second.,A
+second,4,1.7,He ate a second cookie.,B
+second,4,1.7,She received a second chance.,B
+second,4,1.7,"Wait a second, I need to find my keys.",A
+second,4,1.7,My alarm went off just a second too late.,A
+second,4,1.7,I’ll be ready in one second.,A
+second,4,1.7,I need a second to think.,A
+second,4,1.7,The second door on the left is locked.,B
+second,4,1.7,I’ll be there in one second.,A
+second,4,1.7,I ate a second cookie.,B
+second,4,1.7,I secured second place in the race.,B

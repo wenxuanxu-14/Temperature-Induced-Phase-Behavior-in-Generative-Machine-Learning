@@ -1,0 +1,51 @@
+﻿word,run,temp,sentence,label
+second,1,1.5,I will be there in one second.,A
+second,1,1.5,I will meet you in one second.,A
+second,1,1.5,I was second in the race.,B
+second,1,1.5,I need tea for my second cup.,B
+second,1,1.5,"Wait a second, please.",A
+second,1,1.5,I have a second meeting after lunch.,B
+second,1,1.5,"Wait a second, I'll be right there.",A
+second,1,1.5,Please take the second book off my desk.,B
+second,1,1.5,I bought a second notebook.,B
+second,1,1.5,I ate a second piece of cake.,B
+second,1,1.5,I need a second to think.,A
+second,1,1.5,I will be there in one second.,A
+second,1,1.5,I will take a second to think.,A
+second,1,1.5,The **second** book on the shelf is blue.,B
+second,1,1.5,She finished second in the race.,B
+second,1,1.5,Use your turn first; I'll go second.,B
+second,1,1.5,I drank a second glass of water.,B
+second,1,1.5,She sat in the second row.,B
+second,1,1.5,I will take a second to think.,A
+second,1,1.5,"I was early, but he was a second faster.",D
+second,1,1.5,I'll have a second slice of cake.,B
+second,1,1.5,I'll have a second helping.,B
+second,1,1.5,He came in second place.,B
+second,1,1.5,Please **wait a second**.,A
+second,1,1.5,The second runner crossed the finish line.,B
+second,1,1.5,I saved the second piece of cake for you.,B
+second,1,1.5,He is my second best friend.,B
+second,1,1.5,Use the second door on the left.,B
+second,1,1.5,The second runner crossed the finish line.,B
+second,1,1.5,I parked on the second floor.,B
+second,1,1.5,The second runner crossed the finish line.,B
+second,1,1.5,Please give me **a second** to think.,A
+second,1,1.5,I ate a second cookie.,B
+second,1,1.5,I ordered a second slice of cake.,B
+second,1,1.5,I will be there in one second.,A
+second,1,1.5,That is my second cup of coffee today.,B
+second,1,1.5,**I only have one cookie left after eating that second one.**,B
+second,1,1.5,I will take a second look.,B
+second,1,1.5,I need a second to think.,A
+second,1,1.5,I am the second person in line.,B
+second,1,1.5,I'll have a second slice of cake.,B
+second,1,1.5,I will be there in one second.,A
+second,1,1.5,He was the second to arrive.,B
+second,1,1.5,I have a second meeting after lunch.,B
+second,1,1.5,I need a second to think.,A
+second,1,1.5,I ate a second slice of cake.,B
+second,1,1.5,The second choice was better.,B
+second,1,1.5,He won second place in the race.,B
+second,1,1.5,I need a second to think.,A
+second,1,1.5,He finished the race in second place.,B

@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+ring,4,4,1.7,She gave me a silver ring.,B
+ring,4,4,1.7,She found a shiny ring on the ground.,B
+ring,4,4,1.7,She wore a beautiful ring.,B
+ring,4,4,1.7,I can hear the doorbell ring.,A
+ring,4,4,1.7,She found a golden ring on the table.,B
+ring,4,4,1.7,I wearing a gold ring.,D
+ring,4,4,1.7,She wore a gold ring.,B
+ring,4,4,1.7,I received a ring for my birthday.,B
+ring,4,4,1.7,She wore a gold ring.,B
+ring,4,4,1.7,I found a gold ring.,B
+ring,4,4,1.7,She wore a small gold ring.,B
+ring,4,4,1.7,She gave me a beautiful ring.,B
+ring,4,4,1.7,She wears a gold ring.,B
+ring,4,4,1.7,She gave me a golden ring.,B
+ring,4,4,1.7,The phone began to ring loudly.,A
+ring,4,4,1.7,She gave me a beautiful ring.,B
+ring,4,4,1.7,She wore a beautiful ring.,B
+ring,4,4,1.7,She wore a gold ring on her finger.,B
+ring,4,4,1.7,She found a shiny ring on the table.,B
+ring,4,4,1.7,She found a ring on the table.,B
+ring,4,4,1.7,She heard the phone ring.,A
+ring,4,4,1.7,She gave me a gold ring.,B
+ring,4,4,1.7,She wore a beautiful ring.,B
+ring,4,4,1.7,She gave me a beautiful ring.,B
+ring,4,4,1.7,The phone started to ring loudly.,A
+ring,4,4,1.7,She got a beautiful ring.,B
+ring,4,4,1.7,She wears a gold ring on her finger.,B
+ring,4,4,1.7,I wore a ring on my finger.,B
+ring,4,4,1.7,I found a shiny gold ring.,B
+ring,4,4,1.7,I wear a ring on my finger.,B
+ring,4,4,1.7,She wears a gold ring.,B
+ring,4,4,1.7,She gave me a ring for my birthday.,B
+ring,4,4,1.7,She wore a golden ring on her finger.,B
+ring,4,4,1.7,She wears a silver ring on her finger.,B
+ring,4,4,1.7,She heard the phone ring loudly.,A
+ring,4,4,1.7,She gave me a gold ring.,B
+ring,4,4,1.7,She wore a gold ring.,B
+ring,4,4,1.7,She wore a beautiful ring.,B
+ring,4,4,1.7,I saw a golden ring on the table.,B
+ring,4,4,1.7,She bought a beautiful gold ring.,B
+ring,4,4,1.7,She wears a silver ring on her finger.,B
+ring,4,4,1.7,She found a beautiful gold ring.,B
+ring,4,4,1.7,I will wear my new ring today.,B
+ring,4,4,1.7,She will wear a ring tomorrow.,B
+ring,4,4,1.7,Please ring the bell.,A
+ring,4,4,1.7,She wears a silver ring.,B
+ring,4,4,1.7,She got a beautiful ring.,B
+ring,4,4,1.7,She gave me a shiny ring.,B
+ring,4,4,1.7,She heard the phone ring.,A
+ring,4,4,1.7,She wears a silver ring on her finger.,B

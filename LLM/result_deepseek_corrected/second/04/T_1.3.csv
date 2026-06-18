@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+second,4,4,1.3,She came in second place.,B
+second,4,4,1.3,I will be there in one second.,A
+second,4,4,1.3,Please wait a second.,A
+second,4,4,1.3,He came in second place.,B
+second,4,4,1.3,Let me have a second to think.,A
+second,4,4,1.3,"I pick up the blue backpack, not the second one.",B
+second,4,4,1.3,The second book on the shelf is mine.,B
+second,4,4,1.3,I had a second helping of dessert.,B
+second,4,4,1.3,Let me eat my second cookie.,B
+second,4,4,1.3,I had a second helping of cake.,B
+second,4,4,1.3,I need a second to think.,A
+second,4,4,1.3,I will take a second look.,B
+second,4,4,1.3,I will be there in one second.,A
+second,4,4,1.3,I need a second to think.,A
+second,4,4,1.3,There is a second bathroom down the hall.,B
+second,4,4,1.3,The second race started right after the first.,B
+second,4,4,1.3,I need a second to think.,A
+second,4,4,1.3,I'll have a second slice of cake.,B
+second,4,4,1.3,I need a second to think.,A
+second,4,4,1.3,The second step is important.,B
+second,4,4,1.3,She waited a second before answering.,A
+second,4,4,1.3,I will be with you in one second.,A
+second,4,4,1.3,She finished the race in second place.,B
+second,4,4,1.3,He won second place in the race.,B
+second,4,4,1.3,I'll eat lunch in a second.,A
+second,4,4,1.3,I need a second to think.,A
+second,4,4,1.3,I will have a second helping of dinner.,B
+second,4,4,1.3,Please wait a second.,A
+second,4,4,1.3,Please wait a second.,A
+second,4,4,1.3,I finished second in the race.,B
+second,4,4,1.3,A second is a unit of time.,A
+second,4,4,1.3,Let's grab the second cookie.,B
+second,4,4,1.3,**I will come back in one second.**,A
+second,4,4,1.3,I need a second to think.,A
+second,4,4,1.3,Please wait a second.,A
+second,4,4,1.3,I will be there in one second.,A
+second,4,4,1.3,She came in second place.,B
+second,4,4,1.3,I will be ready in one second.,A
+second,4,4,1.3,I will take a second look.,B
+second,4,4,1.3,My second cup of coffee is always the best.,B
+second,4,4,1.3,I will take a second look at that.,B
+second,4,4,1.3,I will be there in one second.,A
+second,4,4,1.3,I need a second to think.,A
+second,4,4,1.3,Please hold for a second.,A
+second,4,4,1.3,I will arrive in one second.,A
+second,4,4,1.3,Please give me a second.,A
+second,4,4,1.3,Please wait a second.,A
+second,4,4,1.3,I'll take a second slice of cake.,B
+second,4,4,1.3,She finished in second place.,B
+second,4,4,1.3,He is my second best friend.,B

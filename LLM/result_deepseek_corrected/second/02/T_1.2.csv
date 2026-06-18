@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+second,2,2,1.2,I'll have a second helping of dessert.,B
+second,2,2,1.2,He was the second to arrive.,B
+second,2,2,1.2,I will be there in one second.,A
+second,2,2,1.2,She won a second prize in the contest.,D
+second,2,2,1.2,I missed the second train.,B
+second,2,2,1.2,You should take a second to think before you speak.,A
+second,2,2,1.2,He finished the race in second place.,B
+second,2,2,1.2,I will take a second to think.,A
+second,2,2,1.2,I'll take a second helping of cake.,B
+second,2,2,1.2,I got second place in the race.,B
+second,2,2,1.2,"I spilled coffee all over my shirt, but my second cup was fine.",B
+second,2,2,1.2,She finished the race in second place.,B
+second,2,2,1.2,I will be there in one second.,A
+second,2,2,1.2,I need a second to think.,A
+second,2,2,1.2,I'll have a second helping of rice.,B
+second,2,2,1.2,I need a second to think.,A
+second,2,2,1.2,I will be there in one second.,A
+second,2,2,1.2,She arrived a second late for class.,A
+second,2,2,1.2,I am second in line.,B
+second,2,2,1.2,She won a gold medal in the second race.,B
+second,2,2,1.2,I need a **second** to think.,A
+second,2,2,1.2,I need a second to finish this.,A
+second,2,2,1.2,I need a second to think.,A
+second,2,2,1.2,Use the second spoon.,B
+second,2,2,1.2,I will take a second to think.,A
+second,2,2,1.2,I need a second to think.,A
+second,2,2,1.2,I came in second place in the race.,B
+second,2,2,1.2,That is my second cup of coffee today.,B
+second,2,2,1.2,I need a second to think.,A
+second,2,2,1.2,She finished in second place.,B
+second,2,2,1.2,He finished a close second in the race.,B
+second,2,2,1.2,I will take a second look at the report.,B
+second,2,2,1.2,I'll have a second helping of dessert.,B
+second,2,2,1.2,I need a second to think.,A
+second,2,2,1.2,I need a second to think.,A
+second,2,2,1.2,I took a second look.,B
+second,2,2,1.2,Please give me a second.,A
+second,2,2,1.2,I need a second to think.,A
+second,2,2,1.2,Use the second fork on the left.,B
+second,2,2,1.2,I have a second earring but lost the first one.,B
+second,2,2,1.2,I need a second to think.,A
+second,2,2,1.2,I will be there in one second.,A
+second,2,2,1.2,Please wait a second.,A
+second,2,2,1.2,I need a second to think.,A
+second,2,2,1.2,I hit the snooze button one second before the alarm stopped.,A
+second,2,2,1.2,I will arrive in one second.,A
+second,2,2,1.2,I have a second meeting at three o'clock.,B
+second,2,2,1.2,**Can you wait a second?**,A
+second,2,2,1.2,Please wait a second.,A
+second,2,2,1.2,The second train arrives at noon.,B

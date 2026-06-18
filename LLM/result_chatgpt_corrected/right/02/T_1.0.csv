@@ -1,0 +1,51 @@
+﻿word,run,temp,sentence,label
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You have the right answer.,A
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned the corner to the right.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You have the right answer.,A
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You have the right answer.,A
+right,2,1.0,You took the right turn.,D
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,She turned right at the corner.,B
+right,2,1.0,You have the right answer.,A
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You made the right choice.,A
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You have the right answer.,A
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You have the right answer.,A
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You have the right answer.,A
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned the corner to the right.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned the right corner.,D
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You have the right answer.,A
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You are right.,A
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You turned right at the corner.,B
+right,2,1.0,You were right about the weather.,A

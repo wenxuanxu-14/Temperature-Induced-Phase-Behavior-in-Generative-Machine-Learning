@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+second,5,5,1.5,She ate a second cookie.,B
+second,5,5,1.5,**I need a second to think.**,A
+second,5,5,1.5,I'll have a second helping.,B
+second,5,5,1.5,"Wait a second, let me finish typing.",A
+second,5,5,1.5,We have a second cat.,B
+second,5,5,1.5,The train will arrive in one second.,A
+second,5,5,1.5,She won second place in the race.,B
+second,5,5,1.5,**I need a second to think.**,A
+second,5,5,1.5,The bus departs in exactly one second.,A
+second,5,5,1.5,I'll eat my dessert second.,B
+second,5,5,1.5,Please wait a second.,A
+second,5,5,1.5,The race took only one second.,A
+second,5,5,1.5,I will take a second helping of dessert.,B
+second,5,5,1.5,He came in second place.,B
+second,5,5,1.5,My second cup of coffee is helping me wake up.,B
+second,5,5,1.5,Turn left at the second street.,B
+second,5,5,1.5,I have a second job on weekends.,B
+second,5,5,1.5,He came in second place.,B
+second,5,5,1.5,He finished second in the race.,B
+second,5,5,1.5,She finished the race in second place.,B
+second,5,5,1.5,There are sixty seconds in a minute.,A
+second,5,5,1.5,He was my second best friend.,B
+second,5,5,1.5,I finished second in the race.,B
+second,5,5,1.5,I saved the second slice of cake for you.,B
+second,5,5,1.5,I have a second pen.,B
+second,5,5,1.5,I'll have a second cup of coffee.,B
+second,5,5,1.5,I need a second to tie my shoe.,A
+second,5,5,1.5,I mentioned my plan for the first time during last week’s chat but had second thoughts.,B
+second,5,5,1.5,I ate a second cookie.,B
+second,5,5,1.5,I will be there in one second.,A
+second,5,5,1.5,I forgot my car key to the second drawer.,D
+second,5,5,1.5,She finished the race in second place.,B
+second,5,5,1.5,I will take a second glance.,B
+second,5,5,1.5,I'll take a second helping of pasta.,B
+second,5,5,1.5,I would like a second glass of water.,B
+second,5,5,1.5,He came second in the race.,B
+second,5,5,1.5,I'll have a second helping of dessert.,B
+second,5,5,1.5,That is my **second** cup of coffee today.,B
+second,5,5,1.5,The second runner finished the race.,B
+second,5,5,1.5,Please wait a second.,A
+second,5,5,1.5,He is my second child.,B
+second,5,5,1.5,She finished in second place.,B
+second,5,5,1.5,I will see you in one second.,A
+second,5,5,1.5,I will be there in one second.,A
+second,5,5,1.5,My **second** question is even more confusing than my first.,B
+second,5,5,1.5,I will second the motion for a break.,B
+second,5,5,1.5,He finished second in the race.,B
+second,5,5,1.5,He came in second place.,B
+second,5,5,1.5,I need another second to think.,A
+second,5,5,1.5,He won the race by just one second.,A

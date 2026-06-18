@@ -1,0 +1,51 @@
+﻿word,run,temp,sentence,label
+second,3,0.9,He came in second place.,B
+second,3,0.9,I ate a second cookie.,B
+second,3,0.9,I need a second to think.,A
+second,3,0.9,I won second place in the race.,B
+second,3,0.9,My second cup of coffee is cold.,B
+second,3,0.9,I have a second watch.,B
+second,3,0.9,The second piece of cake was mine.,B
+second,3,0.9,I will be there in one second.,A
+second,3,0.9,I need a second to think.,A
+second,3,0.9,I'll take a second helping of dessert.,B
+second,3,0.9,I will take a second to think.,A
+second,3,0.9,I need a second to think.,A
+second,3,0.9,I need a second to think.,A
+second,3,0.9,I'll have a second helping of dessert.,B
+second,3,0.9,I ate a second cookie.,B
+second,3,0.9,My second cup of coffee was cold.,B
+second,3,0.9,She finished the race in second place.,B
+second,3,0.9,I need a second to think.,A
+second,3,0.9,I need a second to think.,A
+second,3,0.9,I will be there in one second.,A
+second,3,0.9,I need a second to think.,A
+second,3,0.9,I need a second to think.,A
+second,3,0.9,I will be there in one second.,A
+second,3,0.9,I have a second copy of the book.,B
+second,3,0.9,I need a second to think.,A
+second,3,0.9,I have a second watch for backup.,B
+second,3,0.9,He finished second in the race.,B
+second,3,0.9,I ate a second cookie.,B
+second,3,0.9,I need a second to think.,A
+second,3,0.9,I will take a second look.,B
+second,3,0.9,I will take a second look.,B
+second,3,0.9,She finished the race in second place.,B
+second,3,0.9,I need a second to think.,A
+second,3,0.9,I will be there in a second.,A
+second,3,0.9,The second runner crossed the finish line.,B
+second,3,0.9,I need a second to think.,A
+second,3,0.9,I need a second to think.,A
+second,3,0.9,He finished second in the race.,B
+second,3,0.9,She finished the race in second place.,B
+second,3,0.9,I'll have a second helping of dessert.,B
+second,3,0.9,He came in second place.,B
+second,3,0.9,I will take a second to think.,A
+second,3,0.9,I will take a second look.,B
+second,3,0.9,"I finished my cake, but I still want a second piece.",B
+second,3,0.9,I will be there in one second.,A
+second,3,0.9,I need a second to think.,A
+second,3,0.9,She finished the race in second place.,B
+second,3,0.9,I'll have a second cup of coffee.,B
+second,3,0.9,I need a second cup of coffee.,B
+second,3,0.9,I'll have a second helping of cake.,B

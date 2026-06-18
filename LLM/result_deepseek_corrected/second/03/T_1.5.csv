@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+second,3,3,1.5,He won second place in the race.,B
+second,3,3,1.5,The second hand on my clock is broken.,B
+second,3,3,1.5,I finished it in a second.,A
+second,3,3,1.5,Give me a second.,A
+second,3,3,1.5,"I shot an arrow, but it hit a second target I didn't see.",B
+second,3,3,1.5,The second book was better.,B
+second,3,3,1.5,Pause for a second.,A
+second,3,3,1.5,I’ll be there in one second.,A
+second,3,3,1.5,I rode my bike for a full second.,D
+second,3,3,1.5,I secоndеd her motion.,B
+second,3,3,1.5,Please hold on for a minute.,B
+second,3,3,1.5,I got a second place prize.,B
+second,3,3,1.5,Please wait a second.,A
+second,3,3,1.5,I will be there in a second.,A
+second,3,3,1.5,"I arrived home a little early this time, but I was still one second late for dinner.",B
+second,3,3,1.5,That was my second cup of coffee today.,B
+second,3,3,1.5,Let me have a second to think.,A
+second,3,3,1.5,Wait a second while I grab my coat.,A
+second,3,3,1.5,She finished in second place.,B
+second,3,3,1.5,I will wait one second.,A
+second,3,3,1.5,Hand me the second book.,B
+second,3,3,1.5,She took a second look at the painting.,B
+second,3,3,1.5,Your idea is the second best one I’ve heard today.,B
+second,3,3,1.5,"I stared at the broken clock's second hand, and then it twitched to life.",B
+second,3,3,1.5,I need a second to think.,A
+second,3,3,1.5,The cat is my second pet.,B
+second,3,3,1.5,She finished the race in second place.,B
+second,3,3,1.5,She finished a close second in the race.,B
+second,3,3,1.5,I'll take a second helping of cake.,B
+second,3,3,1.5,Please give me a second.,A
+second,3,3,1.5,He finished second in the race.,B
+second,3,3,1.5,I waited a single second before jumping.,A
+second,3,3,1.5,You're the second person to ask me that.,B
+second,3,3,1.5,The second runner crossed the finish line.,B
+second,3,3,1.5,Let me take a second to think.,A
+second,3,3,1.5,She finished a close **second** in the race.,B
+second,3,3,1.5,He finished second in the race.,B
+second,3,3,1.5,"Wait a **second**, please hear me out.",D
+second,3,3,1.5,I'll eat my dessert second.,B
+second,3,3,1.5,I would like a second glass of water.,B
+second,3,3,1.5,He took a second helping of cake.,B
+second,3,3,1.5,There is a second mouse in the cage.,B
+second,3,3,1.5,I'll have my second helping of mashed potatoes soon.,B
+second,3,3,1.5,I’ll be ready in one second.,A
+second,3,3,1.5,She is my second sister.,B
+second,3,3,1.5,Second place is just being first to lose.,B
+second,3,3,1.5,I will arrive in a second.,A
+second,3,3,1.5,She will arrive in just one second.,A
+second,3,3,1.5,I'll be right there in one second.,A
+second,3,3,1.5,He took a second helping of cake.,B

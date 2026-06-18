@@ -1,0 +1,51 @@
+﻿word,run,temp,sentence,label
+right,2,1.0,Turn right at the next corner.,B
+right,2,1.0,Turn right at the next street.,B
+right,2,1.0,Turn right at the next street.,B
+right,2,1.0,She has the right to remain silent.,C
+right,2,1.0,Please turn right at the next street.,B
+right,2,1.0,Turn right at the corner.,B
+right,2,1.0,Turn right at the corner.,B
+right,2,1.0,Turn right at the next street.,B
+right,2,1.0,Turn right at the next corner.,B
+right,2,1.0,Turn right at the corner.,B
+right,2,1.0,Turn right at the corner.,B
+right,2,1.0,Turn right at the corner.,B
+right,2,1.0,Please turn right at the corner.,B
+right,2,1.0,Turn right at the corner.,B
+right,2,1.0,Turn right at the corner.,B
+right,2,1.0,Turn right at the stop sign.,B
+right,2,1.0,Turn right at the next corner.,B
+right,2,1.0,Turn right at the corner.,B
+right,2,1.0,Turn right at the corner.,B
+right,2,1.0,Turn right at the next street.,B
+right,2,1.0,Turn right at the next street.,B
+right,2,1.0,Turn right at the next corner.,B
+right,2,1.0,Turn right at the next street.,B
+right,2,1.0,Turn right at the corner.,B
+right,2,1.0,Make a right turn at the stop sign.,B
+right,2,1.0,Turn right at the next corner.,B
+right,2,1.0,Turn right at the next corner.,B
+right,2,1.0,Turn right at the corner.,B
+right,2,1.0,Turn right at the stop sign.,B
+right,2,1.0,Turn right at the next corner.,B
+right,2,1.0,The answer is right.,A
+right,2,1.0,Turn right at the next street.,B
+right,2,1.0,Turn right at the corner.,B
+right,2,1.0,Turn right at the corner.,B
+right,2,1.0,Please turn right at the next corner.,B
+right,2,1.0,She turned right at the corner.,B
+right,2,1.0,Turn right at the corner.,B
+right,2,1.0,Turn right at the next corner.,B
+right,2,1.0,Turn right at the next corner.,B
+right,2,1.0,Turn right at the tree.,B
+right,2,1.0,Turn right at the next corner.,B
+right,2,1.0,Turn right at the next corner.,B
+right,2,1.0,Turn right at the stop sign.,B
+right,2,1.0,Turn right at the corner.,B
+right,2,1.0,Turn right at the corner.,B
+right,2,1.0,Turn right at the next street.,B
+right,2,1.0,Turn right at the next street.,B
+right,2,1.0,Turn right at the next corner.,B
+right,2,1.0,Turn right at the next street.,B
+right,2,1.0,Turn right at the next corner.,B

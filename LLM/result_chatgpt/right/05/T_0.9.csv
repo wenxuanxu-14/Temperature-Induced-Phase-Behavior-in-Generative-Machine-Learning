@@ -1,0 +1,51 @@
+﻿word,run,temp,sentence,label
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You have the right answer.,A
+right,5,0.9,You have the right answer.,A
+right,5,0.9,You have the right to speak.,C
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You have the right answer.,A
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You have the right answer.,A
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,"You turned left, but the right way is straight.",B
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You should turn right at the next corner.,B
+right,5,0.9,You have the right answer.,A
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,She turned right at the corner.,B
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You have the right answer.,A
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,She turned right at the corner.,B
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You were right about the weather.,A
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You have the right answer.,A
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You are standing in the right place.,A
+right,5,0.9,You have the right answer.,A
+right,5,0.9,You were right about the time.,A
+right,5,0.9,You turned the corner to the right.,B
+right,5,0.9,You have the right answer.,A
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You have the right to speak.,C
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You have the right answer.,A
+right,5,0.9,You turned right at the corner.,B
+right,5,0.9,You have the right answer.,A

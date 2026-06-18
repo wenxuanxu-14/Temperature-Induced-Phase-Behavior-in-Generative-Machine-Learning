@@ -1,0 +1,51 @@
+﻿word,run,temp,sentence,label
+second,4,1.6,I will arrive in just one second.,A
+second,4,1.6,She waited a second before turning to leave.,A
+second,4,1.6,I'll have a second slice of cake.,B
+second,4,1.6,We can have a second helping of dessert.,B
+second,4,1.6,I ate a second slice of cake.,B
+second,4,1.6,I need a second to think.,A
+second,4,1.6,She answered the phone on the second ring.,B
+second,4,1.6,I need a second to finish this.,A
+second,4,1.6,**Option 1 (time):** I'll be there in one second.,A
+second,4,1.6,I sat in the second row.,B
+second,4,1.6,The clock ticks forward one second at a time.,A
+second,4,1.6,This is my second cup of coffee.,B
+second,4,1.6,I brought a second copy of the book.,B
+second,4,1.6,I missed the second train today.,B
+second,4,1.6,Use a second phone.,B
+second,4,1.6,Please give me a second.,A
+second,4,1.6,I finished second in the race.,B
+second,4,1.6,I'll have a second helping of dessert.,B
+second,4,1.6,"My watch only had a single hand for the minute, not the second.",D
+second,4,1.6,She came in second place.,B
+second,4,1.6,She came in second place in the race.,B
+second,4,1.6,"I was first, and you were second.",B
+second,4,1.6,"I paint for one minute, then rest for a second.",B
+second,4,1.6,I'll take a second slice of cake.,B
+second,4,1.6,I bought a second chocolate bar.,B
+second,4,1.6,She finished her paragraph just one second before the class started.,A
+second,4,1.6,“Please wait one second.”,A
+second,4,1.6,Let me have a second to think.,A
+second,4,1.6,I need a second to think.,A
+second,4,1.6,Here is one sentence: I need a second cup of coffee.,B
+second,4,1.6,The second train will arrive soon.,B
+second,4,1.6,I need a second to think.,A
+second,4,1.6,The second cookie was even better.,B
+second,4,1.6,He arrived a second early.,B
+second,4,1.6,I'll take a second to help you.,A
+second,4,1.6,Please have a second serving of cake.,B
+second,4,1.6,Please take a second to read this.,A
+second,4,1.6,second,D
+second,4,1.6,**The second apple was tastier than the first.,B
+second,4,1.6,She will arrive in the second car.,B
+second,4,1.6,Here is the coin I picked up a **second** time.,B
+second,4,1.6,Second place was my goal in the race.,B
+second,4,1.6,He finished second in the race.,B
+second,4,1.6,My second cup of coffee is never as good as the first.,B
+second,4,1.6,I ran to second base.,B
+second,4,1.6,I'll have a second slice of cake.,B
+second,4,1.6,She came in second place at the science fair.,B
+second,4,1.6,He finished the race in second place.,B
+second,4,1.6,I took a second look.,B
+second,4,1.6,This is my second cup of coffee.,B

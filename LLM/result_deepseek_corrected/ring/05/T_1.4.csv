@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+ring,5,5,1.4,She wears a golden ring.,B
+ring,5,5,1.4,She wore a gold ring on her finger.,B
+ring,5,5,1.4,She wears a silver ring on her finger.,B
+ring,5,5,1.4,I wear a silver ring on my finger.,B
+ring,5,5,1.4,She put a silver ring on her finger.,B
+ring,5,5,1.4,The dog’s collar has a shiny metal ring.,B
+ring,5,5,1.4,She lost her ring at the beach.,B
+ring,5,5,1.4,She wears a silver ring.,B
+ring,5,5,1.4,She wears a silver ring.,B
+ring,5,5,1.4,She wore a gold ring on her finger.,B
+ring,5,5,1.4,She wears a gold ring on her finger.,B
+ring,5,5,1.4,She wears a gold ring on her finger.,B
+ring,5,5,1.4,She wears a gold ring.,B
+ring,5,5,1.4,She wears a gold ring.,B
+ring,5,5,1.4,She wears a ring on her finger.,B
+ring,5,5,1.4,She wears a gold ring on her finger.,B
+ring,5,5,1.4,Let's put a ring on it.,B
+ring,5,5,1.4,She wears a silver ring.,B
+ring,5,5,1.4,She wears a silver ring on her finger.,B
+ring,5,5,1.4,She wears a silver ring on her finger.,B
+ring,5,5,1.4,The loud ring of the phone woke the baby.,A
+ring,5,5,1.4,She wore a silver ring on her finger.,B
+ring,5,5,1.4,She heard the phone ring.,A
+ring,5,5,1.4,She wears a gold ring.,B
+ring,5,5,1.4,She wears a gold ring.,B
+ring,5,5,1.4,She wears a gold ring on her finger.,B
+ring,5,5,1.4,She wears a golden ring on her finger.,B
+ring,5,5,1.4,She wears a gold ring on her finger.,B
+ring,5,5,1.4,She wears a diamond ring.,B
+ring,5,5,1.4,She wears a gold ring on her finger.,B
+ring,5,5,1.4,She wore a gold ring on her finger.,B
+ring,5,5,1.4,I put the ring on my finger.,B
+ring,5,5,1.4,She wears a silver ring on her finger.,B
+ring,5,5,1.4,He put a ring on her finger.,B
+ring,5,5,1.4,She wears a gold ring.,B
+ring,5,5,1.4,She wears a diamond ring.,B
+ring,5,5,1.4,She wears a silver ring on her finger.,B
+ring,5,5,1.4,She wears a gold ring.,B
+ring,5,5,1.4,I will ring the bell.,A
+ring,5,5,1.4,She lifted the golden ring from the velvet cushion.,B
+ring,5,5,1.4,She wears a gold ring.,B
+ring,5,5,1.4,She wears a silver ring on her finger.,B
+ring,5,5,1.4,She wears a gold ring.,B
+ring,5,5,1.4,She gave him a silver ring.,B
+ring,5,5,1.4,The old phone began to ring.,A
+ring,5,5,1.4,The sound of the doorbell will ring at noon.,D
+ring,5,5,1.4,She put the pearl ring on her finger.,B
+ring,5,5,1.4,She wears a shiny gold ring.,B
+ring,5,5,1.4,She wears a silver ring on her finger.,B
+ring,5,5,1.4,She put a gold ring on her finger.,B

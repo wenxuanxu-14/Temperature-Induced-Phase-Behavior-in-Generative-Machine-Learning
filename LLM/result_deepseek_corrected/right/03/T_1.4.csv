@@ -1,0 +1,51 @@
+﻿word,run,temp,sentence,label
+right,3,1.4,Turn right at the next corner.,B
+right,3,1.4,Turn right at the corner.,B
+right,3,1.4,Turn right at the tree.,B
+right,3,1.4,Use the right tool for the job.,A
+right,3,1.4,He has the right to choose.,C
+right,3,1.4,Turn right at the next corner.,B
+right,3,1.4,Turn right at the next stoplight.,B
+right,3,1.4,Turn right at the next corner.,B
+right,3,1.4,Turn right at the stop sign.,B
+right,3,1.4,Turn right at the next street.,B
+right,3,1.4,Turn right at the tree.,B
+right,3,1.4,Turn right at the stop sign.,B
+right,3,1.4,Use your right hand to wave.,B
+right,3,1.4,Turn right at the corner.,B
+right,3,1.4,You have the right to leave.,C
+right,3,1.4,Turn right at the corner.,B
+right,3,1.4,Turn right at the corner.,B
+right,3,1.4,Turn right at the traffic light.,B
+right,3,1.4,Turn right at the corner.,B
+right,3,1.4,Turn right at the next street.,B
+right,3,1.4,You have the right to choose.,C
+right,3,1.4,Turn right at the next corner.,B
+right,3,1.4,Please turn right at the corner.,B
+right,3,1.4,You must turn right at the traffic light.,B
+right,3,1.4,Turn right at the next street.,B
+right,3,1.4,Turn right at the next corner.,B
+right,3,1.4,She has the right to choose.,C
+right,3,1.4,Turn right at the next street.,B
+right,3,1.4,Turn right at the next corner.,B
+right,3,1.4,Turn right at the next street.,B
+right,3,1.4,Turn right at the next street.,B
+right,3,1.4,Please take the first right turn.,B
+right,3,1.4,Turn right at the corner.,B
+right,3,1.4,Turn right at the stop sign.,B
+right,3,1.4,You have the right to be here.,C
+right,3,1.4,Turn right at the next corner.,B
+right,3,1.4,Turn right at the corner.,B
+right,3,1.4,Turn right at the corner.,B
+right,3,1.4,Turn right at the next street.,B
+right,3,1.4,Turn right at the next corner.,B
+right,3,1.4,Turn right at the next corner.,B
+right,3,1.4,Turn right at the stop sign.,B
+right,3,1.4,The answer is right next to you.,C
+right,3,1.4,Turn right at the next corner.,B
+right,3,1.4,Turn right at the corner.,B
+right,3,1.4,Turn right at the next stop sign.,B
+right,3,1.4,She has the right to vote.,C
+right,3,1.4,"Let's meet at the park,**_** right** after lunch.",D
+right,3,1.4,Is this the right way home?,A
+right,3,1.4,I will turn right at the next corner.,B

@@ -1,0 +1,51 @@
+﻿word,run,temp,sentence,label
+right,5,1.0,Turn right at the corner.,B
+right,5,1.0,Turn right at the stop sign.,B
+right,5,1.0,Turn right at the next corner.,B
+right,5,1.0,Turn right at the next corner.,B
+right,5,1.0,Turn right at the next corner.,B
+right,5,1.0,I have the right to speak.,C
+right,5,1.0,Turn right at the corner.,B
+right,5,1.0,She has the right to choose.,C
+right,5,1.0,Turn right at the corner.,B
+right,5,1.0,Turn right at the next corner.,B
+right,5,1.0,Turn right at the corner.,B
+right,5,1.0,The right answer is 42.,A
+right,5,1.0,Turn right at the next corner.,B
+right,5,1.0,Turn right at the next street.,B
+right,5,1.0,Turn right at the stop sign.,B
+right,5,1.0,She has the right to say no.,C
+right,5,1.0,Turn right at the next corner.,B
+right,5,1.0,Turn right at the corner.,B
+right,5,1.0,Turn right at the stop sign.,B
+right,5,1.0,Turn right at the next street.,B
+right,5,1.0,Turn right at the next corner.,B
+right,5,1.0,Turn right at the corner.,B
+right,5,1.0,Turn right at the next street.,B
+right,5,1.0,Turn right at the corner.,B
+right,5,1.0,Turn right at the next street.,B
+right,5,1.0,Turn right at the corner.,B
+right,5,1.0,Turn right at the corner.,B
+right,5,1.0,Turn right at the corner.,B
+right,5,1.0,Turn right at the stop sign.,B
+right,5,1.0,Turn right at the corner.,B
+right,5,1.0,Turn right at the next corner.,B
+right,5,1.0,The cat is on the right side of the chair.,B
+right,5,1.0,Turn right at the corner.,B
+right,5,1.0,Turn right at the stop sign.,B
+right,5,1.0,Turn right at the corner.,B
+right,5,1.0,Turn right at the next street.,B
+right,5,1.0,Turn right at the corner.,B
+right,5,1.0,Turn right at the next corner.,B
+right,5,1.0,Turn right at the corner.,B
+right,5,1.0,Please turn right at the corner.,B
+right,5,1.0,Turn right at the corner.,B
+right,5,1.0,The answer is right.,A
+right,5,1.0,Turn right at the corner.,B
+right,5,1.0,Turn right at the next corner.,B
+right,5,1.0,Turn right at the next street.,B
+right,5,1.0,Turn right at the next street.,B
+right,5,1.0,She has the right to speak.,C
+right,5,1.0,Turn right at the corner.,B
+right,5,1.0,The sun is setting right now.,C
+right,5,1.0,Turn right at the corner.,B

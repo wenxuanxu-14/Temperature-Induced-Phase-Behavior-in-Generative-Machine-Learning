@@ -1,0 +1,51 @@
+﻿word,run,temp,sentence,label
+right,1,1.1,Turn right at the stop sign.,B
+right,1,1.1,Turn right at the next corner.,B
+right,1,1.1,The answer is right.,A
+right,1,1.1,Turn right at the next street.,B
+right,1,1.1,Turn right at the next street.,B
+right,1,1.1,He turned right at the corner.,B
+right,1,1.1,Turn right at the next corner.,B
+right,1,1.1,Turn right at the corner.,B
+right,1,1.1,Turn right at the next street.,B
+right,1,1.1,I have the right to speak.,C
+right,1,1.1,Turn right at the next street.,B
+right,1,1.1,Turn right at the next corner.,B
+right,1,1.1,Turn right at the corner.,B
+right,1,1.1,She turned right at the corner.,B
+right,1,1.1,Turn right at the next corner.,B
+right,1,1.1,Turn right at the corner.,B
+right,1,1.1,Turn right at the corner.,B
+right,1,1.1,Turn right at the next street.,B
+right,1,1.1,Turn right at the next corner.,B
+right,1,1.1,Turn right at the corner.,B
+right,1,1.1,Turn right at the stop sign.,B
+right,1,1.1,Turn right at the corner.,B
+right,1,1.1,Right is the correct answer.,D
+right,1,1.1,Turn right at the corner.,B
+right,1,1.1,Turn right at the next corner.,B
+right,1,1.1,Turn right at the next corner.,B
+right,1,1.1,Turn right at the next corner.,B
+right,1,1.1,Turn right at the next corner.,B
+right,1,1.1,Turn right at the corner.,B
+right,1,1.1,Turn right at the corner.,B
+right,1,1.1,Turn right at the corner.,B
+right,1,1.1,Turn right at the corner.,B
+right,1,1.1,Turn right at the next corner.,B
+right,1,1.1,Turn right at the next corner.,B
+right,1,1.1,Turn right at the next corner.,B
+right,1,1.1,Turn right at the next corner.,B
+right,1,1.1,Turn right at the corner.,B
+right,1,1.1,Turn right at the next light.,B
+right,1,1.1,Turn right at the next street.,B
+right,1,1.1,Please take a right turn at the next street.,B
+right,1,1.1,Let's go to the right.,D
+right,1,1.1,Turn right at the next corner.,B
+right,1,1.1,Turn right at the next street.,B
+right,1,1.1,Turn right at the next street.,B
+right,1,1.1,Turn right at the next corner.,B
+right,1,1.1,Turn right at the corner.,B
+right,1,1.1,I turned right at the corner.,B
+right,1,1.1,Turn right at the stop sign.,B
+right,1,1.1,Turn right at the corner.,B
+right,1,1.1,Turn right at the corner.,B

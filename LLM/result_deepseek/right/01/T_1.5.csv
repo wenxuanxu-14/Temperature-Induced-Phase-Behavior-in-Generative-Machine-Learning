@@ -1,0 +1,51 @@
+﻿word,run,temp,sentence,label
+right,1,1.5,Turn right at the corner.,B
+right,1,1.5,Please turn right at the next stop sign.,B
+right,1,1.5,Turn right at the next corner.,B
+right,1,1.5,Turn right at the corner.,B
+right,1,1.5,Turn right at the corner.,B
+right,1,1.5,Turn right at the corner.,B
+right,1,1.5,Turn right at the stop sign.,B
+right,1,1.5,Turn right at the next corner.,B
+right,1,1.5,The answer is right.,A
+right,1,1.5,Turn right at the next corner.,B
+right,1,1.5,I sat on the right side.,B
+right,1,1.5,Turn right at the next traffic light.,B
+right,1,1.5,Turn right at the stop sign.,B
+right,1,1.5,Turn right at the stop sign.,B
+right,1,1.5,Turn right at the corner.,B
+right,1,1.5,Turn right at the corner.,B
+right,1,1.5,Turn right at the next corner.,B
+right,1,1.5,It is your right to remain silent in a courtroom.,C
+right,1,1.5,Please turn right at the next street.,B
+right,1,1.5,Turn right at the corner.,B
+right,1,1.5,Turn right at the next street.,B
+right,1,1.5,She turned right at the corner.,B
+right,1,1.5,Turn right at the next stoplight.,B
+right,1,1.5,Turn right at the corner.,B
+right,1,1.5,Turn right at the next street.,B
+right,1,1.5,Turn right at the next corner.,B
+right,1,1.5,That is the right answer.,A
+right,1,1.5,Turn right at the next corner.,B
+right,1,1.5,Please turn right at the next corner.,B
+right,1,1.5,She has the right to choose.,C
+right,1,1.5,The boat is to the right.,B
+right,1,1.5,Please turn right at the corner.,B
+right,1,1.5,She turned right at the corner.,B
+right,1,1.5,The sun is to your right this morning.,B
+right,1,1.5,I turned right at the corner.,B
+right,1,1.5,The answer is on the right.,B
+right,1,1.5,You have the right to remain silent.,C
+right,1,1.5,Close the door on your right.,B
+right,1,1.5,The bird flew right past my window.,B
+right,1,1.5,Turn right at the corner.,B
+right,1,1.5,The answer is right next to you.,C
+right,1,1.5,He has the right to remain silent.,C
+right,1,1.5,Turn right at the next corner.,B
+right,1,1.5,Turn right at the next street.,B
+right,1,1.5,Turn right at the next corner.,B
+right,1,1.5,Turn right at the next street.,B
+right,1,1.5,Please turn right at the corner.,B
+right,1,1.5,He turned right at the corner.,B
+right,1,1.5,Turn right at the corner.,B
+right,1,1.5,Use your right hand to open the door.,B

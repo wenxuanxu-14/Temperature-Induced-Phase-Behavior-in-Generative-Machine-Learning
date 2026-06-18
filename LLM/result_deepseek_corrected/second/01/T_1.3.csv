@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+second,1,1,1.3,I parked in the second row.,B
+second,1,1,1.3,I will be there in one second.,A
+second,1,1,1.3,Wait a second while I open the door.,A
+second,1,1,1.3,The second runner won the race.,B
+second,1,1,1.3,I will take a second to think.,A
+second,1,1,1.3,I had a second piece of cake.,B
+second,1,1,1.3,She arrived a second late.,A
+second,1,1,1.3,Please wait a second.,A
+second,1,1,1.3,I need a second cup of coffee.,B
+second,1,1,1.3,I'll take a second to think.,A
+second,1,1,1.3,I won second place in the race.,B
+second,1,1,1.3,I ate a second cookie.,B
+second,1,1,1.3,I need a second to think.,A
+second,1,1,1.3,I could not get a seat for the second showing.,B
+second,1,1,1.3,I’ll be there in one second.,A
+second,1,1,1.3,I need a second to think.,A
+second,1,1,1.3,I need a second to think.,A
+second,1,1,1.3,I'll have a second cookie.,B
+second,1,1,1.3,Please pass me the second book.,B
+second,1,1,1.3,I'll have a second cup of coffee.,B
+second,1,1,1.3,I'll have a second slice of cake.,B
+second,1,1,1.3,I'll have a second helping of dinner.,B
+second,1,1,1.3,He came in second place.,B
+second,1,1,1.3,He finished in second place.,B
+second,1,1,1.3,She came in second place.,B
+second,1,1,1.3,I take a second to check my watch.,B
+second,1,1,1.3,The second star is bright.,B
+second,1,1,1.3,This is my second cup of coffee today.,B
+second,1,1,1.3,I'll have a second piece of cake.,B
+second,1,1,1.3,Let's take a second to think.,A
+second,1,1,1.3,Second place is okay.,B
+second,1,1,1.3,I need a second to think.,A
+second,1,1,1.3,I need a second to think.,A
+second,1,1,1.3,I'll take a second slice of cake.,B
+second,1,1,1.3,I saved the second piece of cake for you.,B
+second,1,1,1.3,I'll take a second piece of cake.,B
+second,1,1,1.3,Wait a second.,A
+second,1,1,1.3,I need a second to think.,A
+second,1,1,1.3,I need a second to rest.,A
+second,1,1,1.3,I need a second to think.,A
+second,1,1,1.3,Please wait a second.,A
+second,1,1,1.3,"I have two cats, and the second one is black.",B
+second,1,1,1.3,I need a second to finish this.,A
+second,1,1,1.3,I need a second to think.,A
+second,1,1,1.3,"I finished eating my first cookie, then grabbed a second one.",B
+second,1,1,1.3,He finished in second place.,B
+second,1,1,1.3,I'll eat my second cookie after lunch.,B
+second,1,1,1.3,Turn the light off for a second.,A
+second,1,1,1.3,The second question was harder.,B
+second,1,1,1.3,I will take a second to think.,A

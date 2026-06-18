@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+ring,1,1,1.5,She lost her favorite gold ring.,B
+ring,1,1,1.5,She wears a gold ring.,B
+ring,1,1,1.5,She wears a silver ring.,B
+ring,1,1,1.5,She wears a gold ring on her finger.,B
+ring,1,1,1.5,She wears a gold ring.,B
+ring,1,1,1.5,She wears a gold ring on her finger.,B
+ring,1,1,1.5,She wears a gold ring on her left hand.,B
+ring,1,1,1.5,She wears a gold ring.,B
+ring,1,1,1.5,He gave her a gold ring.,B
+ring,1,1,1.5,She wears a golden ring on her finger.,B
+ring,1,1,1.5,She wears a silver ring on her finger.,B
+ring,1,1,1.5,She wears a gold ring on her finger.,B
+ring,1,1,1.5,She wears a diamond ring.,B
+ring,1,1,1.5,She wears a gold ring.,B
+ring,1,1,1.5,I put a gold ring on my finger.,B
+ring,1,1,1.5,She heard the phone ring.,A
+ring,1,1,1.5,She wears a gold ring on her finger.,B
+ring,1,1,1.5,She wears a golden ring.,B
+ring,1,1,1.5,She wears a gold ring on her finger.,B
+ring,1,1,1.5,She put a ring on her finger.,B
+ring,1,1,1.5,She placed the ring on her finger.,B
+ring,1,1,1.5,She wears a silver ring on her finger.,B
+ring,1,1,1.5,She gave him a silver ring.,B
+ring,1,1,1.5,That shiny gold ring is on the table.,B
+ring,1,1,1.5,She wears a silver ring.,B
+ring,1,1,1.5,She wears a gold ring on her finger.,B
+ring,1,1,1.5,She wears a gold ring on her finger.,B
+ring,1,1,1.5,I put a ring on my finger.,B
+ring,1,1,1.5,She wears a silver ring on her finger.,B
+ring,1,1,1.5,She put a golden ring on her finger.,B
+ring,1,1,1.5,She wears a gold ring.,B
+ring,1,1,1.5,She wears a silver ring on her finger.,B
+ring,1,1,1.5,She wears a golden ring on her finger.,B
+ring,1,1,1.5,She wears a gold ring.,B
+ring,1,1,1.5,He wears a gold ring.,B
+ring,1,1,1.5,She wears a diamond ring.,B
+ring,1,1,1.5,She wears a gold ring on her finger.,B
+ring,1,1,1.5,She wears a gold ring.,B
+ring,1,1,1.5,Please ring the bell.,A
+ring,1,1,1.5,She wears a gold ring.,B
+ring,1,1,1.5,She wears a silver ring on her finger.,B
+ring,1,1,1.5,She wears a gold ring.,B
+ring,1,1,1.5,Please drop the ring by your chair.,D
+ring,1,1,1.5,She put a gold ring on her finger.,B
+ring,1,1,1.5,She wears a gold ring on her finger.,B
+ring,1,1,1.5,She wears a gold ring on her finger.,B
+ring,1,1,1.5,Please close the ring box.*,B
+ring,1,1,1.5,Please ring the doorbell.,A
+ring,1,1,1.5,She wears a gold ring.,B
+ring,1,1,1.5,She wears a gold ring on her finger.,B

@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+second,5,5,0.9,I arrived second in the race.,B
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,She finished in second place.,B
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,She finished in second place.,B
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,I will arrive in a second.,A
+second,5,5,0.9,I will arrive in the second hour.,B
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,I will arrive in a second.,A
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,I will arrive in a second.,A
+second,5,5,0.9,She finished in second place.,B
+second,5,5,0.9,I will finish my homework in a second.,A
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,She finished in second place.,B
+second,5,5,0.9,I will arrive in a second.,A
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,I will finish in second place.,B
+second,5,5,0.9,I will arrive in the second car.,B
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,I will arrive in the second car.,B
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,She finished in second place.,B
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,I will arrive in a second.,A
+second,5,5,0.9,She finished in second place.,B
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,I arrived in second place.,B
+second,5,5,0.9,She finished in second place.,B
+second,5,5,0.9,I will arrive in a second.,A
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,She finished in second place.,B
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,She finished in second place.,B
+second,5,5,0.9,I will arrive in a second.,A
+second,5,5,0.9,I finished in second place.,B
+second,5,5,0.9,She finished in second place.,B

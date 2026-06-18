@@ -1,0 +1,51 @@
+﻿word,run_id,run,temp,sentence,label
+second,3,3,1.0,I'll have a second helping of ice cream.,B
+second,3,3,1.0,I'll have a second cup of coffee.,B
+second,3,3,1.0,I'll take a second piece of cake.,B
+second,3,3,1.0,I will meet you in one second.,A
+second,3,3,1.0,I need a second to think.,A
+second,3,3,1.0,I have a second watch in my drawer.,B
+second,3,3,1.0,She finished the race in second place.,B
+second,3,3,1.0,The second runner crossed the finish line.,B
+second,3,3,1.0,I received second prize in the race.,B
+second,3,3,1.0,I'll have a second cup of coffee.,B
+second,3,3,1.0,I will be there in one second.,A
+second,3,3,1.0,I'll take a second helping of dessert.,B
+second,3,3,1.0,Please wait a second.,A
+second,3,3,1.0,The second runner crossed the finish line.,B
+second,3,3,1.0,I took a second look at the painting.,B
+second,3,3,1.0,I need a second to think.,A
+second,3,3,1.0,I will be there in a second.,A
+second,3,3,1.0,He came in second place.,B
+second,3,3,1.0,I will arrive in one second.,A
+second,3,3,1.0,I'll take a second piece of cake.,B
+second,3,3,1.0,He finished in second place.,B
+second,3,3,1.0,I need a second to think.,A
+second,3,3,1.0,I need a second to think.,A
+second,3,3,1.0,I need only a second.,A
+second,3,3,1.0,She finished the race in second place.,B
+second,3,3,1.0,I will wait for a second.,A
+second,3,3,1.0,I need a second to think.,A
+second,3,3,1.0,I will be there in one second.,A
+second,3,3,1.0,I will be there in one second.,A
+second,3,3,1.0,I will be there in one second.,A
+second,3,3,1.0,I'll take a second helping of pie.,B
+second,3,3,1.0,I'll take a second helping of dessert.,B
+second,3,3,1.0,She took a second to answer.,B
+second,3,3,1.0,I want a second helping of dessert.,B
+second,3,3,1.0,I'll have a second helping of dessert.,B
+second,3,3,1.0,I ate a second cookie.,B
+second,3,3,1.0,I bought a second notebook.,B
+second,3,3,1.0,She came in second place.,B
+second,3,3,1.0,I need a second to think.,A
+second,3,3,1.0,The second book was better than the first.,B
+second,3,3,1.0,I will be there in one second.,A
+second,3,3,1.0,I need a second to think.,A
+second,3,3,1.0,I will be there in one second.,A
+second,3,3,1.0,I have a second watch.,B
+second,3,3,1.0,I ate a second slice of cake.,B
+second,3,3,1.0,I took a second look.,B
+second,3,3,1.0,There are sixty seconds in a minute.,A
+second,3,3,1.0,I will be there in one second.,A
+second,3,3,1.0,I'll take a second slice of cake.,B
+second,3,3,1.0,I need a second to think.,A
